@@ -1,0 +1,16 @@
+RSI-Crossover_alert - 신호가  띄엄 나오나 대체로 정확
+RVi-Crossover_alert-  신호가 자주 나오는편
+
+Xpoint -위아래 선 형성.. 신호는 잘나오나..진입 청산..진입 진입 청청 중복때도 있음..
+MultiTrend_Signal_KVN --정확한 신호가 나옴..
+wlxBWAcsig- 부정확함
+
+
+트렌드
+AdaptiveLaguerre_V2 = period 조정후 정확히 붙음...
+colorAML-직선형으로 좋은듯..3,2,0
+CorrectedAverage=요구한대로 딱붙음.
+Dserg-LinRegression = 채널구간으로 만듬
+Colorline=중심선이 변함.. 설정은 못함..
+
+imfan =화려함

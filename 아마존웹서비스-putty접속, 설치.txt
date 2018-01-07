@@ -1,0 +1,97 @@
+52.198.183.0   
+
+모든 복사는 ..컨트롤씨지만 붙일때는 오른쪽 클릭만 하면 자동을 붙는다.
+
+아마존 웹서비스 직구 강좌입니다. 강좌에 필요한 내용으로
+아래 내용은 순서대로 따라 복사해 붙여 넣으시면 됩니다.
+1.$ sudo su
+2.# apt-get update
+3.# apt-get install apache2 php5 mysql-server
+
+
+ (php버젼에 따라 설치안될수있다..이유는 기본이 php7이기 때문이다)
+
+
+4.# apt-get install phpmyadmin
+5.# a2enmod rewrite
+
+컨피그 파일 수정------------
+6.# vi /etc/apache2/apache2.conf
+7.쭉 내려가서 맨밑에 쯤 추가  해당위치에 i입력하면 insert모드가 되고 오른쪽클릭해서붙이기 한후
+
+Include /etc/phpmyadmin/apache.conf
+ServerName localhost
+
+다시 i 눌러서 삽입모드 없애고, 
+
+:wq   (저장하고 나온다.
+:q  (그냥 빠져나온다)
+
+엔터 눌러서 빠져나온다.
+
+다시 재부팅되는지 체크
+sudo service apache2 restart
+
+---------------------------------
+.# vi /etc/php5.6/apache2/php.ini
+
+8.#vi /etc/php5/apache2/php.ini
+9.default_charset = "utf-8"
+
+
+10.#vi /etc/mysql/my.cnf
+---------------
+
+11.
+default-character-set=utf8
+
+default-collation=utf8-general_ci
+
+init_connect=set collation_connection=utf8_general_ci
+
+init_connect=set names utf8
+
+character-set-server=utf8
+
+collation-server=utf8_general_ci
+
+character-set-client-handshake=TRUE
+
+
+12.
+#service apache2 restart
+
+#service mysql restart
+
+
+그리고 설치가 끝난 후 
+웹서버 테스트는 다음의 주소를 브라우저에 넣으시면 됩니다.
+http://서버주소/
+phpmyadmin 실행은 
+http://서버주소/phpmyadmin
+
+*********************************************************************************************
+
+*****************************************************************************************
+
+
+Mysql 설치 시에, 패키지 에러 등이 발생하면서 정상적으로 구동이 되지 않을 경우,
+
+해결책이 없다면, 설치한 Mysql 을 삭제하고 재설치가 필요한 경우가 있습니다.
+
+Ubuntu 환경에서 Mysql 삭제에 대한 내용입니다.
+
+
+
+
+<삭제>
+
+sudo /etc/init.d/mysql stop
+sudo apt-get remove --purge mysql-server mysql-client
+sudo netstat -tap | grep mysql
+
+sudo apt-get remove --purge mysql-server*
+sudo apt-get remove --purge mysql-client*
+
+
+*****************************************************************

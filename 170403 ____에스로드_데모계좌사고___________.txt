@@ -1,0 +1,282 @@
+[main] 
+1004176
+
+2017.04.03	(4096 kb)	---------------
+2017.04.03 00:38:29.151	111.118.3.184	'1004176': login (Client build 1571, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 2.83 ms)
+2017.04.03 00:44:32.951	111.118.3.184	'1004176': instant sell 1.00 GBPUSD at 1.25386 (1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:32.951	111.118.3.184	'1004176': request confirmed at client price 1.25386, rule 'Auto Execution' (instant sell 1.00 GBPUSD at 1.25386)(1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:32.951	111.118.3.184	'1004176': deal performed [#130047 sell 1.00 GBPUSD at 1.25386]
+2017.04.03 00:44:32.951	111.118.3.184	'1004176': order performed sell 1.00 at 1.25386 [#4713618 sell 1.00 GBPUSD at 1.25386], time 0.70 ms
+2017.04.03 00:48:44.124	111.118.3.184	'1004176': instant buy 1.00 GBPUSD at 1.25362, close #4713618 sell 1.00 GBPUSD 1.25386 (1.25351 / 1.25362 / 1.25351)
+2017.04.03 00:48:44.124	111.118.3.184	'1004176': request confirmed at client price 1.25362, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25362, close #4713618)(1.25351 / 1.25362 / 1.25351)
+2017.04.03 00:48:44.124	111.118.3.184	'1004176': deal performed [#130053 buy 1.00 GBPUSD at 1.25362]
+2017.04.03 00:48:44.124	111.118.3.184	'1004176': order performed buy 1.00 at 1.25362 [#4713624 buy 1.00 GBPUSD at 1.25362], time 0.55 ms
+2017.04.03 14:08:20.134	175.209.243.52	'1001': server journal (1004176, 2017.04.03 - 2017.04.03)
+2017.04.03 14:20:14.078	175.209.243.52	'1001': server journal (1004176, 2017.04.03 - 2017.04.03)
+2017.04.03 14:45:33.178	111.118.3.184	'1004176': logout (Client build 1571)
+2017.04.03 14:45:33.530	111.118.3.184	'1004176': login (Client build 1571, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 2.73 ms)
+2017.04.03 17:59:54.446	175.209.243.52	'1001': server journal (1004176, 2017.04.03 - 2017.04.04)
+
+
+
+
+
+[slave]
+1004177
+
+2017.04.03 00:38:31.464	111.118.3.184	'1004177': login (Client build 1570, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 16.95 ms)
+2017.04.03 00:38:33.501	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711200 sell 0.33 GBPUSD 1.23942 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.502	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711200)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.502	111.118.3.184	'1004177': deal performed [#129962 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:33.502	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713533 buy 0.33 GBPUSD at 1.25409], time 1.04 ms
+2017.04.03 00:38:33.524	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711205 sell 0.33 GBPUSD 1.23942 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.524	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711205)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.524	111.118.3.184	'1004177': deal performed [#129963 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:33.524	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713534 buy 0.33 GBPUSD at 1.25409], time 0.45 ms
+2017.04.03 00:38:33.534	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711208 sell 0.33 GBPUSD 1.23942 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.534	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711208)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.534	111.118.3.184	'1004177': deal performed [#129964 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:33.534	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713535 buy 0.33 GBPUSD at 1.25409], time 0.75 ms
+2017.04.03 00:38:33.549	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711209 sell 0.33 GBPUSD 1.23942 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.549	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711209)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.549	111.118.3.184	'1004177': deal performed [#129965 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:33.549	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713536 buy 0.33 GBPUSD at 1.25409], time 0.40 ms
+2017.04.03 00:38:33.564	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711225 sell 0.33 GBPUSD 1.23953 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.564	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711225)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.564	111.118.3.184	'1004177': deal performed [#129966 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:33.565	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713537 buy 0.33 GBPUSD at 1.25409], time 0.82 ms
+2017.04.03 00:38:33.700	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711226 sell 0.33 GBPUSD 1.23953 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.700	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711226)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:33.700	111.118.3.184	'1004177': deal performed [#129967 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:33.700	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713538 buy 0.33 GBPUSD at 1.25409], time 0.63 ms
+2017.04.03 00:38:34.157	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711227 sell 0.33 GBPUSD 1.23953 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.157	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711227)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.157	111.118.3.184	'1004177': deal performed [#129968 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:34.157	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713539 buy 0.33 GBPUSD at 1.25409], time 0.71 ms
+2017.04.03 00:38:34.171	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711228 sell 0.33 GBPUSD 1.23953 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.171	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711228)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.172	111.118.3.184	'1004177': deal performed [#129969 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:34.172	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713540 buy 0.33 GBPUSD at 1.25409], time 0.95 ms
+2017.04.03 00:38:34.182	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711250 sell 0.33 GBPUSD 1.23951 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.182	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711250)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.182	111.118.3.184	'1004177': deal performed [#129970 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:34.182	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713541 buy 0.33 GBPUSD at 1.25409], time 0.62 ms
+2017.04.03 00:38:34.201	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25409, close #4711251 sell 0.33 GBPUSD 1.23951 (1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.202	111.118.3.184	'1004177': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25409, close #4711251)(1.25390 / 1.25409 / 1.25390)
+2017.04.03 00:38:34.202	111.118.3.184	'1004177': deal performed [#129971 buy 0.33 GBPUSD at 1.25409]
+2017.04.03 00:38:34.202	111.118.3.184	'1004177': order performed buy 0.33 at 1.25409 [#4713542 buy 0.33 GBPUSD at 1.25409], time 0.68 ms
+2017.04.03 00:38:34.216	111.118.3.184	'1004177': price corrected from 1.25409 to 1.25408, client deviation: 10 (instant buy 0.33 GBPUSD at 1.25409, close #4711256 sell 0.33 GBPUSD 1.23954)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.216	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25408, close #4711256 sell 0.33 GBPUSD 1.23954 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.216	111.118.3.184	'1004177': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25408, close #4711256)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.216	111.118.3.184	'1004177': deal performed [#129972 buy 0.33 GBPUSD at 1.25408]
+2017.04.03 00:38:34.216	111.118.3.184	'1004177': order performed buy 0.33 at 1.25408 [#4713543 buy 0.33 GBPUSD at 1.25408], time 0.78 ms
+2017.04.03 00:38:34.233	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25408, close #4711824 sell 0.33 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.233	111.118.3.184	'1004177': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25408, close #4711824)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.234	111.118.3.184	'1004177': deal performed [#129973 buy 0.33 GBPUSD at 1.25408]
+2017.04.03 00:38:34.234	111.118.3.184	'1004177': order performed buy 0.33 at 1.25408 [#4713544 buy 0.33 GBPUSD at 1.25408], time 0.54 ms
+2017.04.03 00:38:34.241	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25408, close #4711830 sell 0.33 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.241	111.118.3.184	'1004177': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25408, close #4711830)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.242	111.118.3.184	'1004177': deal performed [#129974 buy 0.33 GBPUSD at 1.25408]
+2017.04.03 00:38:34.242	111.118.3.184	'1004177': order performed buy 0.33 at 1.25408 [#4713545 buy 0.33 GBPUSD at 1.25408], time 0.62 ms
+2017.04.03 00:38:34.249	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25408, close #4711835 sell 0.33 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.249	111.118.3.184	'1004177': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25408, close #4711835)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.249	111.118.3.184	'1004177': deal performed [#129975 buy 0.33 GBPUSD at 1.25408]
+2017.04.03 00:38:34.249	111.118.3.184	'1004177': order performed buy 0.33 at 1.25408 [#4713546 buy 0.33 GBPUSD at 1.25408], time 0.41 ms
+2017.04.03 00:38:34.261	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25408, close #4711838 sell 0.33 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.261	111.118.3.184	'1004177': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25408, close #4711838)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.261	111.118.3.184	'1004177': deal performed [#129976 buy 0.33 GBPUSD at 1.25408]
+2017.04.03 00:38:34.261	111.118.3.184	'1004177': order performed buy 0.33 at 1.25408 [#4713547 buy 0.33 GBPUSD at 1.25408], time 0.76 ms
+2017.04.03 00:38:34.279	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25408, close #4711846 sell 0.33 GBPUSD 1.24115 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.279	111.118.3.184	'1004177': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25408, close #4711846)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.279	111.118.3.184	'1004177': deal performed [#129977 buy 0.33 GBPUSD at 1.25408]
+2017.04.03 00:38:34.280	111.118.3.184	'1004177': order performed buy 0.33 at 1.25408 [#4713548 buy 0.33 GBPUSD at 1.25408], time 0.58 ms
+2017.04.03 00:38:34.295	111.118.3.184	'1004177': instant buy 0.33 GBPUSD at 1.25408, close #4711855 sell 0.33 GBPUSD 1.24114 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.296	111.118.3.184	'1004177': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.33 GBPUSD at 1.25408, close #4711855)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.296	111.118.3.184	'1004177': deal performed [#129978 buy 0.33 GBPUSD at 1.25408]
+2017.04.03 00:38:34.296	111.118.3.184	'1004177': order performed buy 0.33 at 1.25408 [#4713549 buy 0.33 GBPUSD at 1.25408], time 0.48 ms
+2017.04.03 00:39:47.035	111.118.3.184	'1004177': logout (Client build 1570)
+2017.04.03 00:39:56.406	111.118.3.184	'1004177': login (Client build 1571, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 3.16 ms)
+2017.04.03 00:44:33.248	111.118.3.184	'1004177': instant sell 0.09 GBPUSD at 1.25386 (1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:33.249	111.118.3.184	'1004177': request confirmed at client price 1.25386, rule 'Auto Execution' (instant sell 0.09 GBPUSD at 1.25386)(1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:33.249	111.118.3.184	'1004177': deal performed [#130051 sell 0.09 GBPUSD at 1.25386]
+2017.04.03 00:44:33.249	111.118.3.184	'1004177': order performed sell 0.09 at 1.25386 [#4713622 sell 0.09 GBPUSD at 1.25386], time 0.72 ms
+2017.04.03 00:48:44.289	111.118.3.184	'1004177': instant buy 0.09 GBPUSD at 1.25362, close #4713622 sell 0.09 GBPUSD 1.25386 (1.25351 / 1.25362 / 1.25351)
+2017.04.03 00:48:44.289	111.118.3.184	'1004177': request confirmed at client price 1.25362, rule 'Auto Execution' (instant buy 0.09 GBPUSD at 1.25362, close #4713622)(1.25351 / 1.25362 / 1.25351)
+2017.04.03 00:48:44.289	111.118.3.184	'1004177': deal performed [#130054 buy 0.09 GBPUSD at 1.25362]
+2017.04.03 00:48:44.289	111.118.3.184	'1004177': order performed buy 0.09 at 1.25362 [#4713625 buy 0.09 GBPUSD at 1.25362], time 0.84 ms
+2017.04.03 14:10:01.158	175.209.243.52	'1001': server journal (1004177, 2017.04.03 - 2017.04.03)
+
+
+[slave]
+1004178
+
+2017.04.03 00:38:33.534	111.118.3.184	'1004178': login (Client build 1570, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 15.94 ms)
+2017.04.03 00:38:34.979	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711201 sell 0.67 GBPUSD 1.23942 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.979	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711201)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:34.979	111.118.3.184	'1004178': deal performed [#129979 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:34.979	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713550 buy 0.67 GBPUSD at 1.25408], time 0.75 ms
+2017.04.03 00:38:35.281	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711206 sell 0.67 GBPUSD 1.23942 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.282	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711206)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.282	111.118.3.184	'1004178': deal performed [#129980 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.282	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713551 buy 0.67 GBPUSD at 1.25408], time 0.59 ms
+2017.04.03 00:38:35.588	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711217 sell 0.67 GBPUSD 1.23953 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.588	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711217)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.589	111.118.3.184	'1004178': deal performed [#129981 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.589	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713552 buy 0.67 GBPUSD at 1.25408], time 0.71 ms
+2017.04.03 00:38:35.598	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711218 sell 0.67 GBPUSD 1.23953 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.599	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711218)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.599	111.118.3.184	'1004178': deal performed [#129982 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.599	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713553 buy 0.67 GBPUSD at 1.25408], time 0.61 ms
+2017.04.03 00:38:35.616	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711230 sell 0.67 GBPUSD 1.23953 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.616	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711230)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.616	111.118.3.184	'1004178': deal performed [#129983 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.616	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713554 buy 0.67 GBPUSD at 1.25408], time 0.45 ms
+2017.04.03 00:38:35.623	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711231 sell 0.67 GBPUSD 1.23953 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.623	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711231)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.623	111.118.3.184	'1004178': deal performed [#129984 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.623	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713555 buy 0.67 GBPUSD at 1.25408], time 0.58 ms
+2017.04.03 00:38:35.633	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711232 sell 0.67 GBPUSD 1.23953 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.633	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711232)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.633	111.118.3.184	'1004178': deal performed [#129985 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.634	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713556 buy 0.67 GBPUSD at 1.25408], time 0.67 ms
+2017.04.03 00:38:35.650	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711233 sell 0.67 GBPUSD 1.23953 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.650	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711233)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.650	111.118.3.184	'1004178': deal performed [#129986 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.650	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713557 buy 0.67 GBPUSD at 1.25408], time 0.57 ms
+2017.04.03 00:38:35.663	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711248 sell 0.67 GBPUSD 1.23951 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.663	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711248)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.663	111.118.3.184	'1004178': deal performed [#129987 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.663	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713558 buy 0.67 GBPUSD at 1.25408], time 0.74 ms
+2017.04.03 00:38:35.680	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711249 sell 0.67 GBPUSD 1.23951 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.680	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711249)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.681	111.118.3.184	'1004178': deal performed [#129988 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.681	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713559 buy 0.67 GBPUSD at 1.25408], time 0.64 ms
+2017.04.03 00:38:35.685	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711257 sell 0.67 GBPUSD 1.23954 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.686	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711257)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.686	111.118.3.184	'1004178': deal performed [#129989 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.686	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713560 buy 0.67 GBPUSD at 1.25408], time 0.58 ms
+2017.04.03 00:38:35.691	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711827 sell 0.67 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.691	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711827)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.692	111.118.3.184	'1004178': deal performed [#129990 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.692	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713561 buy 0.67 GBPUSD at 1.25408], time 0.59 ms
+2017.04.03 00:38:35.713	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711832 sell 0.67 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.713	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711832)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.713	111.118.3.184	'1004178': deal performed [#129991 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.713	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713562 buy 0.67 GBPUSD at 1.25408], time 0.54 ms
+2017.04.03 00:38:35.726	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711836 sell 0.67 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.726	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711836)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.726	111.118.3.184	'1004178': deal performed [#129992 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.727	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713563 buy 0.67 GBPUSD at 1.25408], time 0.77 ms
+2017.04.03 00:38:35.735	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711839 sell 0.67 GBPUSD 1.24113 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.735	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711839)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.736	111.118.3.184	'1004178': deal performed [#129993 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.736	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713564 buy 0.67 GBPUSD at 1.25408], time 0.85 ms
+2017.04.03 00:38:35.757	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711851 sell 0.67 GBPUSD 1.24112 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.757	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711851)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.757	111.118.3.184	'1004178': deal performed [#129994 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.757	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713565 buy 0.67 GBPUSD at 1.25408], time 0.87 ms
+2017.04.03 00:38:35.771	111.118.3.184	'1004178': instant buy 0.67 GBPUSD at 1.25408, close #4711853 sell 0.67 GBPUSD 1.24114 (1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.771	111.118.3.184	'1004178': request confirmed at client price 1.25408, rule 'Auto Execution' (instant buy 0.67 GBPUSD at 1.25408, close #4711853)(1.25392 / 1.25408 / 1.25392)
+2017.04.03 00:38:35.772	111.118.3.184	'1004178': deal performed [#129995 buy 0.67 GBPUSD at 1.25408]
+2017.04.03 00:38:35.772	111.118.3.184	'1004178': order performed buy 0.67 at 1.25408 [#4713566 buy 0.67 GBPUSD at 1.25408], time 0.64 ms
+2017.04.03 00:40:24.023	111.118.3.184	'1004178': logout (Client build 1570)
+2017.04.03 00:40:33.460	111.118.3.184	'1004178': login (Client build 1571, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 97.99 ms)
+2017.04.03 00:44:33.234	111.118.3.184	'1004178': instant sell 0.18 GBPUSD at 1.25386 (1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:33.235	111.118.3.184	'1004178': request confirmed at client price 1.25386, rule 'Auto Execution' (instant sell 0.18 GBPUSD at 1.25386)(1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:33.235	111.118.3.184	'1004178': deal performed [#130050 sell 0.18 GBPUSD at 1.25386]
+2017.04.03 00:44:33.235	111.118.3.184	'1004178': order performed sell 0.18 at 1.25386 [#4713621 sell 0.18 GBPUSD at 1.25386], time 0.75 ms
+2017.04.03 00:48:44.348	111.118.3.184	'1004178': instant buy 0.18 GBPUSD at 1.25362, close #4713621 sell 0.18 GBPUSD 1.25386 (1.25351 / 1.25362 / 1.25351)
+2017.04.03 00:48:44.349	111.118.3.184	'1004178': request confirmed at client price 1.25362, rule 'Auto Execution' (instant buy 0.18 GBPUSD at 1.25362, close #4713621)(1.25351 / 1.25362 / 1.25351)
+2017.04.03 00:48:44.349	111.118.3.184	'1004178': deal performed [#130056 buy 0.18 GBPUSD at 1.25362]
+2017.04.03 00:48:44.349	111.118.3.184	'1004178': order performed buy 0.18 at 1.25362 [#4713627 buy 0.18 GBPUSD at 1.25362], time 0.51 ms
+2017.04.03 14:16:36.405	175.209.243.52	'1001': server journal (1004178, 2017.04.03 - 2017.04.03)
+
+
+[slave] 1004179
+
+2017.04.03	(4096 kb)	---------------
+2017.04.03 00:38:34.970	111.118.3.184	'1004179': login (Client build 1570, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 8.80 ms)
+2017.04.03 00:38:36.855	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711220 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.855	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711220)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.855	111.118.3.184	'1004179': deal performed [#129996 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.855	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713567 buy 1.00 GBPUSD at 1.25409], time 0.62 ms
+2017.04.03 00:38:36.869	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711221 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.870	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711221)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.870	111.118.3.184	'1004179': deal performed [#129997 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.870	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713568 buy 1.00 GBPUSD at 1.25409], time 0.70 ms
+2017.04.03 00:38:36.876	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711222 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.876	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711222)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.877	111.118.3.184	'1004179': deal performed [#129998 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.877	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713569 buy 1.00 GBPUSD at 1.25409], time 0.53 ms
+2017.04.03 00:38:36.891	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711223 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.891	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711223)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.891	111.118.3.184	'1004179': deal performed [#129999 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.891	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713570 buy 1.00 GBPUSD at 1.25409], time 0.57 ms
+2017.04.03 00:38:36.902	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711234 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.902	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711234)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.903	111.118.3.184	'1004179': deal performed [#130000 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.903	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713571 buy 1.00 GBPUSD at 1.25409], time 0.59 ms
+2017.04.03 00:38:36.916	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711236 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.916	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711236)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.916	111.118.3.184	'1004179': deal performed [#130001 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.916	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713572 buy 1.00 GBPUSD at 1.25409], time 0.70 ms
+2017.04.03 00:38:36.930	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711238 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.930	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711238)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.930	111.118.3.184	'1004179': deal performed [#130002 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.930	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713573 buy 1.00 GBPUSD at 1.25409], time 0.51 ms
+2017.04.03 00:38:36.987	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711240 sell 1.00 GBPUSD 1.23953 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.987	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711240)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:36.987	111.118.3.184	'1004179': deal performed [#130003 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:36.987	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713574 buy 1.00 GBPUSD at 1.25409], time 0.47 ms
+2017.04.03 00:38:37.543	111.118.3.184	'1004179': price corrected from 1.25409 to 1.25410, client deviation: 10 (instant buy 1.00 GBPUSD at 1.25409, close #4711260 sell 1.00 GBPUSD 1.23954)(1.25392 / 1.25410 / 1.25392)
+2017.04.03 00:38:37.543	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25410, close #4711260 sell 1.00 GBPUSD 1.23954 (1.25392 / 1.25410 / 1.25392)
+2017.04.03 00:38:37.543	111.118.3.184	'1004179': request confirmed at client price 1.25410, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25410, close #4711260)(1.25392 / 1.25410 / 1.25392)
+2017.04.03 00:38:37.543	111.118.3.184	'1004179': deal performed [#130004 buy 1.00 GBPUSD at 1.25410]
+2017.04.03 00:38:37.544	111.118.3.184	'1004179': order performed buy 1.00 at 1.25410 [#4713575 buy 1.00 GBPUSD at 1.25410], time 0.76 ms
+2017.04.03 00:38:37.559	111.118.3.184	'1004179': price corrected from 1.25410 to 1.25409, client deviation: 10 (instant buy 1.00 GBPUSD at 1.25410, close #4711261 sell 1.00 GBPUSD 1.23954)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.559	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711261 sell 1.00 GBPUSD 1.23954 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.559	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711261)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.559	111.118.3.184	'1004179': deal performed [#130005 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.559	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713576 buy 1.00 GBPUSD at 1.25409], time 0.61 ms
+2017.04.03 00:38:37.575	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711262 sell 1.00 GBPUSD 1.23954 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.575	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711262)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.575	111.118.3.184	'1004179': deal performed [#130006 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.575	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713577 buy 1.00 GBPUSD at 1.25409], time 0.49 ms
+2017.04.03 00:38:37.584	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711825 sell 1.00 GBPUSD 1.24113 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.584	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711825)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.584	111.118.3.184	'1004179': deal performed [#130007 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.584	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713578 buy 1.00 GBPUSD at 1.25409], time 0.56 ms
+2017.04.03 00:38:37.592	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711834 sell 1.00 GBPUSD 1.24113 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.592	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711834)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.593	111.118.3.184	'1004179': deal performed [#130008 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.594	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713579 buy 1.00 GBPUSD at 1.25409], time 2.47 ms
+2017.04.03 00:38:37.607	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711848 sell 1.00 GBPUSD 1.24114 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.607	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711848)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.607	111.118.3.184	'1004179': deal performed [#130009 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.607	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713580 buy 1.00 GBPUSD at 1.25409], time 0.79 ms
+2017.04.03 00:38:37.622	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711849 sell 1.00 GBPUSD 1.24114 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.623	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711849)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.623	111.118.3.184	'1004179': deal performed [#130010 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.623	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713581 buy 1.00 GBPUSD at 1.25409], time 0.68 ms
+2017.04.03 00:38:37.633	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711850 sell 1.00 GBPUSD 1.24114 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.634	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711850)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.634	111.118.3.184	'1004179': deal performed [#130011 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.634	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713582 buy 1.00 GBPUSD at 1.25409], time 0.76 ms
+2017.04.03 00:38:37.640	111.118.3.184	'1004179': instant buy 1.00 GBPUSD at 1.25409, close #4711854 sell 1.00 GBPUSD 1.24114 (1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.640	111.118.3.184	'1004179': request confirmed at client price 1.25409, rule 'Auto Execution' (instant buy 1.00 GBPUSD at 1.25409, close #4711854)(1.25392 / 1.25409 / 1.25392)
+2017.04.03 00:38:37.640	111.118.3.184	'1004179': deal performed [#130012 buy 1.00 GBPUSD at 1.25409]
+2017.04.03 00:38:37.640	111.118.3.184	'1004179': order performed buy 1.00 at 1.25409 [#4713583 buy 1.00 GBPUSD at 1.25409], time 0.51 ms
+2017.04.03 00:40:49.013	111.118.3.184	'1004179': logout (Client build 1570)
+2017.04.03 00:40:58.442	111.118.3.184	'1004179': login (Client build 1571, cid: faac139a8c909e360b3e030ce7e8b122, point: MetaTrader 5 Access Server, ping: 66.99 ms)
+2017.04.03 00:44:33.189	111.118.3.184	'1004179': instant sell 0.27 GBPUSD at 1.25386 (1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:33.190	111.118.3.184	'1004179': request confirmed at client price 1.25386, rule 'Auto Execution' (instant sell 0.27 GBPUSD at 1.25386)(1.25386 / 1.25406 / 1.25386)
+2017.04.03 00:44:33.190	111.118.3.184	'1004179': deal performed [#130049 sell 0.27 GBPUSD at 1.25386]
+2017.04.03 00:44:33.190	111.118.3.184	'1004179': order performed sell 0.27 at 1.25386 [#4713620 sell 0.27 GBPUSD at 1.25386], time 0.56 ms
+2017.04.03 00:48:45.134	111.118.3.184	'1004179': instant buy 0.27 GBPUSD at 1.25363, close #4713620 sell 0.27 GBPUSD 1.25386 (1.25351 / 1.25363 / 1.25351)
+2017.04.03 00:48:45.134	111.118.3.184	'1004179': request confirmed at client price 1.25363, rule 'Auto Execution' (instant buy 0.27 GBPUSD at 1.25363, close #4713620)(1.25351 / 1.25363 / 1.25351)
+2017.04.03 00:48:45.134	111.118.3.184	'1004179': deal performed [#130058 buy 0.27 GBPUSD at 1.25363]
+2017.04.03 00:48:45.134	111.118.3.184	'1004179': order performed buy 0.27 at 1.25363 [#4713629 buy 0.27 GBPUSD at 1.25363], time 0.62 ms
+
+
+
+

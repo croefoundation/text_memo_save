@@ -1,0 +1,32 @@
+https://coinmarketcap.com/1
+------------------------------------
+https://coinmarketcap.com/api/
+
+CoinMarketCap JSON API Documentation
+Version 1
+
+Public API Methods
+Ticker
+Endpoint: /ticker/
+Method: GET
+Optional parameters:
+(int) limit - only returns the top limit results.
+(string) convert - return price, 24h volume, and market cap in terms of another currency. Valid values are: 
+"AUD", "BRL", "CAD", "CHF", "CLP", "CNY", "CZK", "DKK", "EUR", "GBP", "HKD", "HUF", "IDR", "ILS", "INR", "JPY", "KRW", "MXN", "MYR", "NOK", "NZD", "PHP", "PKR", "PLN", "RUB", "SEK", "SGD", "THB", "TRY", "TWD", "ZAR"
+Example: https://api.coinmarketcap.com/v1/ticker/
+Example: https://api.coinmarketcap.com/v1/ticker/?limit=10
+Example: https://api.coinmarketcap.com/v1/ticker/?convert=EUR&limit=10
+
+
+Donate BTC: 15gJiApW3G9MN2iTteQwQbq7NundwGWwv6
+Donate LTC: LTdsVS8VDw6syvfQADdhf2PHAm3rMGJvPX
+Donate ETH: 0x0074709077B8AE5a245E4ED161C971Dc4c3C8E2B
+
+-------------------
+
+http://bithumb.info/tradeInfo/chart
+
+코인 시세 모니터링 프로그램 만들기
+https://steemit.com/kr-dev/@mauver/04
+
+

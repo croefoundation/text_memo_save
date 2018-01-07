@@ -1,0 +1,80 @@
+ MetaTrader 5 Server build 1545
+
+ ----------------------
+
+Hello 
+
+ let me know how to set MT5(Arrange windows as a non-overlapping tiles(Alt-R)) like MT4 style
+
+Our customet have used MT4, and we persuade them to use MT5. 
+
+but they always claim to us after using MT5.
+
+
+
+issue is following
+
+pls.. let me know the way how to set like MT4 style "Arrange windows as a non-overlapping tiles(Alt-R)"
+
+please chek. [attached files..]
+
+
+
+MT4 ----------------  
+
+(Before) chart sequence 1-2-3
+
+1.EURUSD,M1  (BLACK) ->2.EURUSD,M5  (WHITE) ->3.EURUSD,M15 (BLUE)
+
+after moving the chart sequence  3-2-1 or 2-3-1 ....
+
+(After)
+
+Click-->Arrange windows as a non-overlapping tiles(Alt-R)
+
+then ->back intial position 1-2-3
+
+1.EURUSD,M1  (BLACK) ->2.EURUSD,M5  (WHITE)->3.EURUSD,M15 (BLUE)
+
+
+MT4 is always initial position back.. if click Alt-R, although we move the charts randoum position .
+
+-------------------
+
+but MT5 don't back its initial chart sequence but random position. Why?
+
+MT5 ----------------  
+
+(Before) chart sequence  1-2-3
+
+1.EURUSD,M1  (BLACK) ->2.EURUSD,M5  (WHITE) ->3.EURUSD,M15 (BLUE)
+
+after moving the chart sequence  3-2-1 or 2-3-1 ....
+
+(After)
+
+Click-->Arrange windows as a non-overlapping tiles(Alt-R)
+
+then ->can not back intial position , that is random sequence like 2-3-1,
+
+2.EURUSD,M5  (WHITE)->3.EURUSD,M15 (BLUE)-1.EURUSD,M1  (BLACK) 
+
+
+MT5 is always random position back.. if click Alt-R,
+
+the example is just 3ea charts. 
+
+but our customer usually use 5 charts. M1,M5,M15,M30,MH1 and then trade.
+
+they have been accustomed to this initial chart position setting   .
+
+so it is inconvinent  for them to reset the chart sequence first state. 
+
+so they want to set chart sequnce  like MT4 style.
+
+
+
+let me know the way how to set like MT4.
+
+thanks 
+

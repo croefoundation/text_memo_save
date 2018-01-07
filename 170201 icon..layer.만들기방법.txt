@@ -1,0 +1,35 @@
+Open your image in Gimp
+Make your canvas square
+Resize your layer to the image
+Scale the layer to the largest size in your .ico file like 64 pixels
+Duplicate the layer
+Scale the duplicate layer to the next size
+Keep duplicating / scaling for all the sizes you want in your .ico file
+Save as .ico
+
+
+
+	
+You can do this for free in GIMP. There are brief instructions for doing this here.
+
+To quote:
+
+Open your image in Gimp
+Make your canvas square
+Resize your layer to the image
+Scale the layer to the largest size in your .ico file like 64 pixels
+Duplicate the layer
+Scale the duplicate layer to the next size
+Keep duplicating / scaling for all the sizes you want in your .ico file
+Save as .ico
+In your case, you could either start with the largest image and scale down for each duplicated image, or you could just add new layers and import the specific icon images you wanted into that layer.
+
+shareimprove this answer
+edited Oct 22 '12 at 17:15
+
+Zuul
+3,33121532
+answered Oct 22 '12 at 17:09
+
+techturtle
+5,02552251

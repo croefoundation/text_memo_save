@@ -1,0 +1,325 @@
+http://webnautes.tistory.com/1028         
+===>설명잘됨
+
+
+-----------------------------
+Ubuntu 16.04에 LAMP ( Apache2, MySQL , PHP5 / PHP7) 설치하는 방법
+************************************************
+
+Apache2 웹서버, MySQL 데이터베이스 서버, PHP를 Ubuntu에 설치하는 과정을 소개합니다.
+LAMP는  운영 체제와 오픈 소스 소프트웨어 스택의 조합으로 Linux, Apache, MySQL, PHP의 첫글자만 가지고 만든 약어입니다.
+ 
+본 포스팅에서는 Ubuntu 16.04.2 LTS가 설치되어 있는 상태에서 LAMP 스택을 설치하는 방법을 설명합니다
+ 
+ 
+1.Apache2 웹서버 설치
+ 
+2.MySQL 서버 설치
+ 
+3.PHP 설치
+   PHP 7.1
+   PHP 5.6
+ 
+4.디폴트 PHP 버전 변경
+ 
+5.phpMyAdmin 설치(옵션)
+ 
+ 
+ 
+ 
+설치하는 모든 과정을 터미널 기반으로 설명합니다.
+우선 Ctrl + Alt + T를 눌러 터미널을 실행합니다.
+
+ 
+ 
+패키지 설치를 시작하기전에 저장소의 패키지 목록을 업데이트해줍니다.
+$ sudo apt-get update
+ 
+ 
+기존에 설치되어 있던 패키지를 업그레이드 해줍니다. 
+$ sudo apt-get upgrade
+ 
+ 
+Apache2 웹서버 설치
+Apache2 웹서버를 설치하기 위해 터미널에 다음 명령을 입력합니다.
+$ sudo apt-get install apache2
+ 
+
+ 
+정상적으로 설치되었는지 확인하기 위해 웹 브라우저를 실행하고 웹 주소로 localhost 또는 서버 아이피 주소를 입력합니다.
+
+ 
+ 
+다음과 같은 웹페이지가 보이면 정상적으로 설치된 것입니다.
+
+ 
+ 
+Apache2의 디폴트 Document Root는 /var/www/html 입니다.
+이 경로에  HTML 또는 PHP 파일 등을 생성하면 웹 브라우저를 통해 접근이 가능합니다.
+
+ 
+ 
+ /etc/apache2/apache2.conf 파일을 수정하여 디폴트 Document Root를 수정할 수 있습니다. 
+ 
+ 
+MySQL 서버 설치
+MySQL은 관계형 데이터베이스 관리 시스템(relational database management system, RDBMS)입니다.
+다중 사용자가 다수의 데이터베이스에 접근할 수 있도록 서버를 구성합니다. 
+$ sudo apt-get install mysql-server
+ 
+
+ 
+설치하는  도중에  MySQL 서버의 관리자 계정인  root 사용자의 암호를 요구합니다.
+사용할 암호를 입력해주고 따로 기록해두어야 합니다. 
+
+ 
+ 
+PHP 설치
+PHP는 주로 웹 개발 분야에서 사용되는 스크립트 언어입니다.
+PHP 5.6과 PHP 7.1을 같이 설치하거나 둘중 하나만 설치하셔도 됩니다. 
+두 가지 버전을 모두 설치한 경우에는 디폴트 PHP 버전 변경 항목을 확인하세요.
+ 
+PHP 패키지를 다운로드 받기 위한 저장소(repository)를 추가합니다.
+$ sudo add-apt-repository ppa:ondrej/php
+ 
+ 
+추가한 저장소로부터 패키지 목록을 가져옵니다.
+$ sudo apt-get update
+ 
+ 
+PHP 7.1
+PHP 7.1 기본적인 패키지를 설치합니다.
+$ sudo apt-get install php7.1 php7.1-common
+ 
+이제 추가적으로 필요한 PHP 7.1  패키지를 설치합니다.
+$ sudo apt-get install php7.1-mysql php7.1-curl php7.1-xml php7.1-zip php7.1-gd php7.1-mbstring php7.1-mcrypt
+ 
+
+ 
+ 
+PHP가 정상적으로 설치되었는지 확인하기 위해  /var/www/html경로에 info.php 파일 다음 명령으로  생성합니다.
+$ sudo sh -c 'echo "<?php phpinfo(); ?>" > /var/www/html/info.php'
+ 
+
+ 
+ 
+웹 브라우저를 실행하고 웹 주소로 localhost/info.php 또는 서버 아이피 주소/info.php를 입력합니다.
+
+ 
+ 
+다음과 같은 웹페이지처럼 PHP Version 7.1이 보이면 정상적으로 설치된 것입니다.
+두 가지 버전을 모두 설치한 경우에는 먼저 설치한 PHP 버전이 나옵니다.  
+이 경우 디폴트 PHP 버전 변경 항목을 확인하세요.
+
+ 
+ 
+터미널에서도  PHP 7.1이  보여야 합니다.
+
+ 
+ 
+PHP 5.6
+PHP 5.6 기본적인 패키지를 설치합니다.
+$ sudo apt-get install php5.6 php5.6-common
+ 
+
+ 
+ 
+이제 추가적으로 필요한 PHP 5.6 패키지를 설치합니다.
+$ sudo apt-get install php5.6-mysql php5.6-curl php5.6-xml php5.6-zip php5.6-gd php5.6-mbstring php5.6-mcrypt
+ 
+
+ 
+ 
+PHP가 정상적으로 설치되었는지 확인하기 위해  /var/www/html경로에 info.php 파일 다음 처럼 생성합니다.
+$ sudo sh -c 'echo "<?php phpinfo(); ?>" > /var/www/html/info.php'
+ 
+ 
+웹 브라우저를 실행하고 웹 주소로 localhost/info.php 또는 서버 아이피 주소/info.php를 입력합니다.
+
+ 
+ 
+다음과 같은 웹페이지처럼 PHP Version 5.6이 보이면 정상적으로 설치된 것입니다.
+두 가지 버전을 모두 설치한 경우에는 먼저 설치한 PHP 버전이 나옵니다.  
+이 경우 디폴트 PHP 버전 변경 항목을 확인하세요.
+
+ 
+ 
+터미널에서도  PHP 5.6이  보여야 합니다.
+
+ 
+ 
+디폴트 PHP 버전 변경
+두가지 버전을 설치한 경우 현재 사용중인 버전 확인은 다음 두 가지 방법으로 가능합니다.
+  - 웹 브라우저를 실행하고 웹 주소로 localhost/info.php 또는 서버 아이피 주소/info.php를 접속
+  - 터미널에서 php -v 명령을 실행 
+ 
+ 
+현재 PHP 7.1을 사용중인데  PHP 5.6으로  디폴트 버전을 변경하려면 다음 명령을 실행하세요.
+$ sudo a2dismod php7.1 ; sudo a2enmod php5.6 ; sudo service apache2 restart
+$ sudo update-alternatives --set php /usr/bin/php5.6
+ 
+명령 후 .. 위에서 언급한 두가지 방법으로  현재 디폴트 버전을 확인해보면 됩니다.
+ 
+ 
+현재 PHP 5.6을 사용중인데  PHP 7.1로  디폴트 버전을 변경하려면 다음 명령을 실행하세요.
+$ sudo a2dismod php5.6 ; sudo a2enmod php7.1 ; sudo service apache2 restart
+$ sudo update-alternatives --set php /usr/bin/php7.1
+ 
+명령 후 .. 위에서 언급한 두가지 방법으로  현재 디폴트 버전을 확인해보면 됩니다.
+ 
+ 
+참고로 설치 가능한 PHP 모듈 리스트는  다음처럼 확인할 수 있습니다. 
+
+ 
+
+ 
+ 
+phpMyAdmin 설치(옵션)
+phpMyAdmin은 MySQL 데이터베이스를 관리할 수 있는 웹 인터페이스 입니다. 
+ 
+phpMyAdmin을 설치합니다. 
+$ sudo apt-get install phpmyadmin
+ 
+
+ 
+ 
+phpMyAdmin을 실행하기 위한 설정을 자동으로 할 웹서버를 선택합니다.
+스페이스바를 눌러서  apache2를 선택하고 엔터를 누르면 설치가 계속 진행됩니다.
+
+ 
+ 
+phpMyAdmin을 위한 설정을 데이터베이스에 적용하기 위해 예를 선택하고 엔터를 누릅니다.
+
+ 
+ 
+MySQL에 등록할 phpMyAdmin을 위한 암호를 입력해줍니다.
+빈칸으로 두고  엔터를 입력하여 임의의 암호 생성되게 해도 무방합니다.
+
+ 
+ 
+이제 웹브라우저에서 localhost/phpmyadmin로 접속합니다. 
+
+ 
+ 
+MySQL 계정 정보를 입력하고 실행을 클릭합니다. 
+
+ 
+ 
+다음과 같은 화면을 볼 수 있습니다.
+데이터베이스 및 테이블 생성, SQL 질의등 다양한 작업을 웹기반으로 할 수 있습니다.
+
+ 
+
+
+***************************************************************
+
+1. apache2 완전 삭제
+
+==========================================끝
+Ubuntu Server에서 Apache 서버를 관리 Test를 하다보니 다음과 같은 문제가 발생하였습니다.
+
+기본적으로 debian 계열(우분투)는 설정 파일은 별도로 관리하고 있습니다.
+해당 파일 삭제를 하기 위해서는 --purge 옵션을 사용한 경우에만 제거가 가능합니다.
+ 
+설치 후 /etc/apache2 폴더 아래를 보면 apache2.conf 파일이 없으며 설치 후 폴더만 존재하는 현상이 발생합니다.
+(물론 apache2.conf파일이 없어 apache2 Service도 기동되지 않습니다.)
+해당 이슈를 해결하기 위해 다음 명령어 수행이 필요합니다.
+
+결국*******************************************************
+
+> sudo apt-get remove --purge apache2
+> sudo apt-get clean
+> sudo apt-get install apache2
+ 
+
+그 다음 새로 apache2를 설치하였습니다.
+
+> sudo apt-get install apache2
+
+
+
+ -=------------------------------------------------------------------------
+2. mysql 삭제 깔끔하게 삭제 
+==================================
+apt-get purge mysql-server
+apt-get purge mysql-common
+rm -rf /var/log/mysql
+rm -rf /var/log/mysql.*
+rm -rf /var/lib/mysql
+rm -rf /etc/mysql
+
+설치
+apt-get install mysql-server --fix-missing --fix-broken 
+
+lidya2016!
+
+확인
+mysql -uroot -p
+lidya2016!
+mysql> exit;
+mysql>;
+
+
+
+*********************************
+3. phmyadmin 설치
+--------------------------------------
+ sudo apt-get install mysql-server
+확인 
+
+-------------------
+1. 제거 sudo apt-get remove phpmyadmin
+
+ 설치 sudo apt-get install phpmyadmin
+
+2. 설정 - 웹 서버에 phpmyadmin 연동
+$ sudo vi  /etc/apache2/apache2.conf               <<< 이 파일을 열어서
+Include /etc/phpmyadmin/apache.conf    <<< 이 내용을 추가 합니다.
+
+
+3. 웹 서버 재시작
+$ sudo service apache2 restart
+
+
+4. phpMyadmin 접속
+http://호스트네임/phpmyadmin
+
+
+
+저는 위 과정을 하다가 잘못해서 재설치 해서 다시 했었는데요~
+
+삭제 하실 분들은 아래와 같이 하면 됩니다.
+
+
+
+삭제
+sudo apt-get remove phpmyadmin
+
+sudo apt-get purge phpmyadmin
+
+
+출처: http://kkotkkio.tistory.com/40 [KKOTKKIO'S CAVE
+
+
+
+우분투(Ubuntu)에서 패키지를 관리하는 명령어가 몇가지 있습니다. 그 중 가장 기본이 되는 것이 apt-get입니다. 많은 옵션이 있는데, 자주 쓰는 몇가지를 정리해보겠습니다.
+
+apt-get update
+패키지 목록을 갱신합니다.
+
+apt-get upgrade
+모든 패키지를 최신 버전으로 업그레이드합니다.
+
+apt-get install abc
+abc 패키지를 설치합니다.
+
+apt-get remove abc
+abc 패키지를 삭제합니다. 설정파일은 삭제하지 않습니다.
+
+apt-get purge abc
+abc 패키지를 삭제합니다. remove와 다르게 설정파일도 삭제합니다.
+
+참고로 패키지 검색은 apt-cache로 합니다. abc를 포함한 패키지를 검색하려면 
+
+apt-cache search abc
+와 같이 하면 됩니다.

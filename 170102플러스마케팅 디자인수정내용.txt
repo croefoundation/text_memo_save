@@ -1,0 +1,47 @@
+register form.html
+1.제품변경
+2.PMP-->CP
+3.회원회칙 변경
+
+volumeup_form.html
+1.제품변경
+2.결제PMP->CP
+
+volume_group.html
+1.PMP-->CP
+2.Volume type->TYPE수정
+
+volume_list.html detail
+1.PMP-->CP
+2.id 삭제
+3.GP신설, GP1,GP2삭제
+4.TYPE수정
+
+volume_matching.html
+1.PMP-->CP
+2.Ratio-->5%동일
+3.6스텝까지만
+4.TYPE수정
+
+
+Bonus_list.html
+1.dashboard 항목 수정
+2.Bonus detail -MB삭제
+3.TYPE수정
+
+bonus_level.html
+1.dashboard 항목 수정
+2.TYPE수정
+
+wallet_balance.html
+
+wallet_list.html
+
+05.wallet_CPtransfer.html
+05.wallet_CPwithdrawal.html
+
+05.wallet_MP exchange.html
+
+추가
+06._pluspay_status.html
+06.pluspay_exchange_CP.html

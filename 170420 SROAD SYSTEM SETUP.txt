@@ -1,0 +1,16 @@
+
+W/L: SROAD-FX 
+Company : Success Road Limited
+-------------------------------     
+NOTICE: SROAD-FX SYSTEM SETUP STATUS.
+
+PLATFORM : Metatrader 5
+
+1.Application Time. 2017.04.20.08:00:00 (GMT)
+2.Margin Leverage : 500:1
+3.Margin Call level : 50%
+4.Stop Out level: 30%
+5.Hedged Margin : 0.00 (Temporary)
+
+MetaQuotes Software Corp.
+Technical Department

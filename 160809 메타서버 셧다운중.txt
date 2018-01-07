@@ -1,0 +1,34 @@
+112.175.51.236 서버가 다운되었다는 연락을 받음..
+즉시 재부팅해주시고 원인파악을 부탁드립니다.
+
+112.175.51.236 
+112.175.51.235  
+두 서버는 현재 거래 플랫폼으로 사용하고 있으므로 절대
+다운되어서는 안되는 서버이므로 ..
+원인파악을 해서 앞으로도 셧다운이 안되도록 하기위해서
+원인파악이 매우 중요합니다.
+감사합니다.
+
+
+2016.08.19 15:23:15.670	Network	'111042': authorization on CreativeIDEA-Server failed (Account doesn't have manager config)
+
+
+
+I admire your technical skills for MT5.
+James is fluent in English. so 
+I have been entrusted with the global marketing department to James .
+
+
+
+
+However, this does not apply after a setting.
+
+For example, I have set up a group to spread the demo -2.
+
+I would like to adjust the spreads for each group. 
+Currently most of symbol's spread is 3 pips for default. 
+But i want to set low spread in demo group about 1pip. 
+so I have set the Spread -2.
+
+
+

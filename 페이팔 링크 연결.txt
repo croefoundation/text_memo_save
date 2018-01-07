@@ -1,0 +1,56 @@
+Topic: %{ticket.topic.name} 
+Subject: %{ticket.subject} %{ticket.subject1} 
+
+%{response} 
+
+Your %{company.name} Team,
+%{signature}
+
+
+
+Re: %{ticket.subject} %{ticket.subject1}  [#%{ticket.number}]
+
+
+liberta2017
+liberta
+
+금액선택
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="MZ5A63VRDMCCL">
+<table>
+<tr><td><input type="hidden" name="on0" value="MT5 Services">MT5 Services</td></tr><tr><td><select name="os0">
+	<option value="for Service1">for Service1 $500.00 USD</option>
+	<option value="for Service2">for Service2 $1,000.00 USD</option>
+	<option value="for Service3">for Service3 $2,000.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_GB/HK/i/btn/btn_buynowCC_LG_wCUP.gif" border="0" name="submit" alt="PayPal ? The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TVMQJNC8FQVAE
+
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B4M7ZJVAWH9TN
+
+
+
+
+금액 임의 설정
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="TVMQJNC8FQVAE">
+<input type="image" src="https://www.paypalobjects.com/en_GB/HK/i/btn/btn_buynowCC_LG_wCUP.gif" border="0" name="submit" alt="PayPal ? The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TVMQJNC8FQVAE
+
+

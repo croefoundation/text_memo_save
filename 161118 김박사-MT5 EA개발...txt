@@ -1,0 +1,78 @@
+이사님 마니 바쁘시죠..
+이래저래 연말다가오면서 계약만료건이나 기존투자자 미팅으로 좀 시간이 바쁘네요.
+
+MT5 영업을 위해서 MT4에서 사용했던 2가지 프로그램을 컨버팅해 주시면 좋겠어요..
+(1)축진입 : NineMagic_V166.ex4
+(2)iExposure3.ex4  
+   몇랏샀는지 마진율등을 볼수 있게해야 할듯해서요
+(3)이사님이 벽모니터 걸때 챠트에 통화쌍 크게 보게 만들어줬던 화일은 못챶겠어요..그거 MT5용으로요.
+
+우선 축진입은 복잡한거 다빼고..
+MT5에서는 진입과 청산의 조건을 단순버젼으로 해서 시뮬레이션 보여줄려고 합니다.
+시간도 걸릴거구..바쁘신줄 알지만 MT5영업을 해야해서 더 미루기가 그래서요 ㅠㅠ
+제가 MQL5 뭐가 필요한지 몰라서 그러니..필요한사항을 말씀해 주시면 준비하겠습니다.
+늘 감사합니다.
+
+
+---NineMagic_V166.ex4-------------------------------------------------------
+
+다 그대로구요.축진입방식을 cci,뭐 이런 복잡한거 빼고 무조건 진입하는게 나을것 같아요.
+단, 청산후 재진입시 시간조절 텀조절가능,SecAfterClose=0
+    초기랏수,증가랏수,반복랏수,맥스랏수,최소랏수,등등은 그대로 들어가고요.
+
+[MT4]에서 축진입에 사용한 조건변수 입니다. 수정에 참고해 주십시요
+
+
+
+Title_Basic======= 기본 설정 ======
+MagicNo=1
+MaxSlippage=3
+MaxSpread=5
+CloseDelaySec=0
+
+
+Title_Lot======= 진입 설정 ======
+FirstLot=0.01000000
+AddLot=0.01000000
+AddStart=1
+AddStep=1
+MaxLot=5
+MinLot=0.01000000
+MaxPosLot1=100000
+MaxPosLot2=10000
+OpenPip=3
+RepeatCount=10
+
+SecAfterClose=0
+
+Title_indic1======= CCI 설정 =====xxxxxxxxxxx생략
+Title_indic2======= CCI2 설정 =====xxxxxxxxxxxxx생략
+
+
+Title_Stoploss======= 이익 설정 ======
+TakeProfit=100000
+TargetProfit=50 (total profit)
+OverLot1=0.5
+OverLot2=2
+OverLot3=5
+ProfitRatio1=0.50000000
+ProfitRatio2=0.00100000
+ProfitRatio3=0.00010000
+
+Title_Trailing======= 추적손절 설정 ======
+TrailingstopUse=0
+Trailingstop=1
+Trailingstep=1
+
+Title_BB======= 볼린저 설정 ======xxxxxxxxxxxx생략
+
+
+Title_Time======= 시간 설정 ======
+StartTime1=00:00
+EndTime1=24:00
+StartTime2=00:00
+EndTime2=00:00
+StartTime3=00:00
+EndTime3=00:00
+
+

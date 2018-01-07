@@ -1,0 +1,341 @@
+Site Label: raonkr.cafe24.com(h)
+HostName: raonkr.cafe24.com
+Username: raonkr
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: kpopent.co.kr(B)
+HostName: kpopent.co.kr
+Username: kpopent
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: credia.cafe24.com
+HostName: credia.cafe24.com
+Username: credia
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: kpopent.cafe24.com(B)
+HostName: kpopent.cafe24.com
+Username: kpopent
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: korsf.co.kr(h)
+HostName: korsf.co.kr
+Username: korsf01
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: laonstyle.cafe24.com(S)
+HostName: laonstyle.cafe24.com
+Username: laonstyle
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: freshfish1.cafe24.com(S)
+HostName: freshfish1.cafe24.com
+Username: freshfish1
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: raonfnf.cafe24.com(S)
+HostName: raonfnf.cafe24.com
+Username: raonfnf
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: myraon.cafe24.com(S)
+HostName: myraon.cafe24.com
+Username: myraon
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: cnwasset.com
+HostName: cnwasset.com
+Username: cnwasset
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: cnwasset.cafe24.com
+HostName: cnwasset.cafe24.com
+Username: cnwasset
+Password: ******
+Port: 21
+Default local folder: C:\Users\user\Desktop\cnwasset.com
+Uses passive mode
+
+
+Site Label: esomairbed.cafe24.com(S)
+HostName: esomairbed.cafe24.com
+Username: esomairbed
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: unvkor.cafe24.com(B)
+HostName: unvkor.cafe24.com
+Username: unvkor
+Password: ******
+Port: 21
+Default local folder: C:\Users\user\Desktop\unvkor.org
+Uses passive mode
+
+
+Site Label: kglobal.co.kr(h)
+HostName: kglobal.co.kr
+Username: n21kgb
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: n21shop.cafe24.com(S)
+HostName: n21shop.cafe24.com
+Username: n21shop
+Password: ******
+Port: 21
+Uses passive mode
+
+
+Site Label: h-aven.com
+HostName: h-aven.com
+Username: niukorea
+Password: ******
+Port: 21
+Default local folder: C:\Users\user\Desktop\h-aven.com\01.H-AVEN.COM_서버이미지
+Uses passive mode
+
+
+Site Label: lidya.cafe24.com
+HostName: lidya.cafe24.com
+Username: lidya
+Password: ******
+Port: 21
+Default local folder: F:\작업중\(( CILFOREX\www.lidya.co.kr
+Uses passive mode
+
+
+Site Label: ftp.zpat.info(zpa_17056074)
+HostName: ftp.zpat.info
+Username: zpa_17056074
+Password: ******
+Port: 21
+Default local folder: C:\Users\user\Documents
+Uses passive mode
+
+
+Site Label: coinsystem.cafe24.com(s)
+HostName: coinsystem.cafe24.com
+Username: coinsystem
+Password: ******
+Port: 21
+Default local folder: F:\작업중\[1]LNC Korea
+Uses passive mode
+
+
+Site Label: A2.plusmallgb.com_45.120.148.52
+HostName: sgls2.a2hosting.com
+Username: zeusotru
+Password: ******
+Port: 21
+Default local folder: F:\작업중\FTP_BACKUP_09.02
+Uses passive mode
+
+
+Site Label: ftp.zpat.info(zpa_17457023)zeus
+HostName: ftp.zpat.info
+Username: zpa_17457023
+Password: ******
+Port: 21
+Default local folder: C:\02.zeusotrust.com
+Uses passive mode
+
+
+Site Label: A2.digitcoin.biz
+HostName: a2ls13.a2hosting.com
+Username: digitcoi
+Password: ******
+Port: 21
+Default local folder: F:\작업중\www.digitglobal.limited
+Uses passive mode
+
+
+Site Label: korea idc web1
+HostName: 183.111.102.101
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: F:\작업중\FTP_BACKUP_08.10\101
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: korea idc web2
+HostName: 183.111.102.102
+Username: lidya
+Password: ******
+Port: 21
+Default local folder: C:\
+Uses passive mode
+
+
+Site Label: korea idc_103
+HostName: 183.111.102.103
+Username: lidya
+Password: ******
+Port: 21
+Default local folder: C:\
+Uses passive mode
+
+
+Site Label: korea idc_105
+HostName: 183.111.102.105
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: F:\작업중\FTP_BACKUP_09.18
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: korea idc_104
+HostName: 183.111.102.104
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: F:\작업중\FTP_BACKUP_09.18
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: korea idc_106
+HostName: 183.111.102.106
+Username: lidya
+Password: ******
+Port: 21
+Default local folder: C:\
+Uses passive mode
+
+
+Site Label: korea idc_105ssh
+HostName: 183.111.102.105
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: C:\
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: ftp.zpat.info(zpa_18005814)plusz
+HostName: ftp.zpat.info
+Username: zpa_18005814
+Password: ******
+Port: 21
+Default local folder: C:\02.zeusotrust.com
+Uses passive mode
+
+
+Site Label: yurimjapan
+HostName: 218.145.31.92
+Username: id_yurim
+Password: ******
+Port: 22
+Default local folder: F:\작업중\FTP_BACKUP_09.18
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: ftp.zpat.91
+HostName: 45.34.45.90
+Username: root
+Password: ******
+Port: 22
+Default local folder: C:\Users\user\Documents
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: A2.lidyahkc
+HostName: nlls1.a2hosting.com
+Username: lidyahkc
+Password: ******
+Port: 7822
+Default local folder: H:\Lidya_Group\[2]CilForex\cilforex.com Mobirise
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: korea chinese_14.49.15.10
+HostName: 14.49.15.10
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: C:\Users\user\Documents
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: korea chinese_14.49.15.09
+HostName: 14.49.15.9
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: C:\Users\user\Documents
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: korea chinese_14.49.15.11
+HostName: 14.49.15.11
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: F:\작업중\FTP_BACKUP_08.10
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: korea idc_ddos_112.175.124.78
+HostName: 112.175.124.78
+Username: lidya
+Password: ******
+Port: 9322
+Default local folder: F:\작업중\FTP_BACKUP_09.02
+Protocol Type: sftp
+Uses passive mode
+
+
+Site Label: A2.plusmallgb.com_103.227.176.9
+HostName: 103.227.176.9
+Username: zeusotru
+Password: ******
+Port: 7822
+Default local folder: F:\작업중\FTP_BACKUP_09.02
+Protocol Type: sftp
+Uses passive mode
+
+

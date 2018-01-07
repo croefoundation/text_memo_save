@@ -1,0 +1,52 @@
+Ticket Variables
+
+Ticket Variables
+Please note that non-base variables depend on the context of use. 
+
+Base Variables Other Variables 
+
+%{ticket.id} Ticket ID (internal ID) 
+%{ticket.number} Ticket Number (external ID) 
+%{ticket.email} Email Address 
+%{ticket.name} Full Name ? see name expansion 
+%{ticket.subject} Subject 
+%{ticket.phone} Phone number | ext 
+%{ticket.status} Status 
+%{ticket.priority} Priority 
+%{ticket.assigned} Assigned Agent / Team 
+%{ticket.create_date} Date Created 
+%{ticket.due_date} Due Date 
+%{ticket.close_date} Date Closed 
+%{ticket.recipients} List of all recipient names 
+%{recipient.ticket_link} Auth. token used for auto-login
+ Agent's ticket view link 
+Expandable Variables 
+%{ticket.topic} Help Topic 
+%{ticket.dept} Department 
+%{ticket.staff} Assigned/closing agent 
+%{ticket.team} Assigned/closing team 
+%{ticket.thread} Ticket Thread 
+ 
+%{message} Incoming message 
+%{response} Outgoing response 
+%{comments} Assign/transfer comments 
+%{note} Internal note (expandable) 
+%{assignee} Assigned Agent / Team 
+%{assigner} Agent assigning the ticket 
+%{url} SupportSystem's base url (FQDN) 
+%{reset_link} Reset link used by the password reset feature 
+
+Name Expansion 
+.first First Name 
+.last Last Name 
+.full First Last 
+.short First L. 
+.shortformal F. Last 
+.lastfirst Last, First 
+Ticket Thread expansions 
+.original Original Message 
+.lastmessage Last Message 
+Thread Entry expansions 
+.poster Poster 
+.create_date Date Created 
+ 

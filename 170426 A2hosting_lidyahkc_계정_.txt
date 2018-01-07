@@ -1,0 +1,9 @@
+c-panel접속:   https://nlls1.a2hosting.com:2083/
+               http:..www.lidyahk.com/cpanel
+
+id : lidyahkc
+pw: lidya2016$
+
+접속후 설정에서
+E-mail 설정
+info@kptplus.com 설정은 E-mail Account에서 

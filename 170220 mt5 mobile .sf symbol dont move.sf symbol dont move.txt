@@ -1,0 +1,28 @@
+mobile version : build 1509
+attached file : i-phone captured
+
+we have 4ea W/L, and each have a seperate symbol type  like *.cf, *.pf, *.df, *.sf
+but only *.sf Quotes/Advanced tab have issues
+that price is moving, High,Low=0.000 don't move
+
+for example;
+[Quotes/advanced tab] symbol price, High, Low
+
+1)*.pf, *.cf, *.df  = all is ok
+                      (price, High, Low / all is moving)
+2)SuccessRoad-demo = all is ok
+                      (price, High, Low / all is moving)
+
+3)SuccessRoad-Live *.sf =  price is moving.
+                      
+                      but High=0.000, Low=0.000 / not moving)
+
+why only *.sf have a issue?
+please help me.
+customer ask us why?
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+
+Phil! Is there any requirement to receive feed as a broker? 
+for Example, my company must be regulated or incorporated in a certain jurisdiction as a broker. 
+If there's no requirement to receive feed for broker , 
+i can choose the package with minimum fee (USD 2500/ month)
+

@@ -1,0 +1,109 @@
+
+파비콘
+<link rel="shortcut icon" href="favicon.ico" type="images/ico">
+
+
+----------------------------------------------------------------------------
+
+
+<script language='ⓙavascript' SRC='http://inlive.co.kr/js/ShortCut.js'>
+</script>
+<script language='ⓙavascript'>
+MakeShortCut("제목", "URL", "ico절대경로");
+</script>
+
+예를 들어 아래를 보세요.
+
+<script language='ⓙavascript' SRC='http://inlive.co.kr/js/ShortCut.js'>
+</script>
+<script language='ⓙavascript'>
+MakeShortCut("음악듣기 인기차트", "http://inlive.co.kr/play/chart.ilv", "http://inlive.co.kr/ilv_icon.ico");
+</script>
+
+이걸 이용해서 바탕화면에 바로 가기 버튼을 만들어 보세요.
+
+http://inlive.co.kr 에서 퍼왔습니다.
+마음대로 사용해도 된다고 하네요
+
+
+-------------------------------------------------------------------------
+
+
+
+자기가 사용 할때는 
+<script language=\＇JavaScript\＇ SRC=\＇http://inlive.co.kr/js/ShortCut.js\＇> 
+</script> 
+<script language=\＇JavaScript\＇> 
+  MakeShortCut(\"내홈페이지이름\", \"http://내홈페이지 주소\", \"아이콘 주소\"); 
+</script> 
+
+음 역시 좋군...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+자신의 홈 아이콘을 접속자의 바탕화면에 만들어줍니다.
+다음을 홈페이지의 첫 페이지(보통은 index.html)의
+와 사이에 넣습니다.
+ 
+<script language='JavaScript' SRC='http://홈경로주소/js/ShortCut.js'></script>
+<script language='JavaScript'>
+  MakeShortCut("아이콘제목", "홈페이지주소", "아이콘파일경로");
+</script>
+
+ShortCut.js 파일소스는
+
+var shortcutck = document.cookie.indexOf('shortcut')
+
+if ( shortcutck == -1 ) {
+
+document.write("<object id='ShortCut' style='position:absolute'");document.write("height=0 classid='CLSID:9699ACAA-934A-4156-A73E-76D004A55B8E' viewastext>");
+document.write("</object>");
+}
+
+
+function MakeShortCut( title,t_url,ico,eday ) {
+try {
+
+if ( !title ) title = "제목";
+if ( !t_url ) t_url = "홈피주소";
+if ( !ico ) ico = "http://홈경로주소/아이콘이름.ico";
+if ( !eday ) eday = 0;
+if ( eday == 9999 ) eday = 0;
+
+
+var todayDate = new Date(); 
+expire_day_t = todayDate.setDate( todayDate.getDate() + eday ); 
+expire_day = todayDate.toGMTString() 
+document.cookie = "shortcut = " + escape( expire_day_t ) + "; path=/; expires=" + expire_day + ";" 
+
+ShortCut.createLink(t_url, ico, title);
+}
+catch(err) { }
+}
+첨부파일을 풀면
+ShortCut.cab, ShortCut.js와 아이콘 몇개가 있습니다.
+여기서 ShortCut.js파일을 에디터(메모장이나 에디터플러스 등)로 열고 위 소스처럼 수정해주세요
+아이콘은 꼭 확장자가 ico파일로 되어야 합니다.

@@ -1,0 +1,70 @@
+oh my God .Today I had same problem.
+Main Account position remained.
+but all of  slave account position was cleared suddenly.  Above issue was same a weeks ago.
+This time i think maybe the reason is liveupdate in Metatrader5 build (1570-->1571)
+
+1)Main account
+  Login --> live update (popup)--->click -->log out -->build upgrade (1571)
+  -->all position normal ok.
+
+2)but all of slave account -->cleared
+
+i attached journal file. (170403 --.txt)
+please check fastcopy p/g. this is big problem.
+
+--------------------
+And i attached the above problem that happend a weeks ago 03.27 journal file..
+it was the same problem.
+main account positions are remained normally. 
+(just group changed in manager terminal) but all of slave account positions are cleared.
+why?
+please..check for me
+our customer protesting me...
+
+
+
+oh my God .Today I had same problem.
+
+Main Account position remained.
+
+but all of  slave account position was cleared suddenly.  Above issue was same a weeks ago.
+
+This time i think maybe the reason is liveupdate in Metatrader5 build (1570-->1571)
+
+
+
+1)Main account
+
+  Login --> live update (popup)--->click -->log out -->build upgrade (1571)
+
+  -->all position normal ok.
+
+
+
+2)but all of slave account -->cleared
+
+
+
+i attached journal file. (170403 --.txt)
+
+please check fastcopy p/g. this is big problem.
+
+
+
+--------------------
+
+And i attached  journal file too. the above problem that happend a weeks ago 03.27.  journal file..(170327--.txt)
+
+it was the same problem.
+
+main account positions are remained normally. 
+
+(just group changed in manager terminal) but all of slave account positions are cleared.
+
+why?
+
+please..check for me
+
+our customer protesting me...
+
+

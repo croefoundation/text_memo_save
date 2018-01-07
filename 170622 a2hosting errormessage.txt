@@ -1,0 +1,20 @@
+hi
+i have trouble in connecting database .. pls help me..
+<db account> 
+ host: 209.124.66.5 (lidyahk.com)
+user:  lidyahkc_0
+pw : lidya2016
+dbname: lidyahkc_lidya
+
+i have used SQLyog program  instead of Cpanel Mysql admin  ..
+but  i cannot connect  my db with SQLyog because of Login error.
+error message is " Access denied. "  (attached .png)
+i think maybe it is not allowed my ip 175.209.243.52  to connect a2hosting( ip.:209.124.66.5)
+where can i set make ip  allowable?
+
+SQLYOG prgram is properly worked.
+because i have 2 account in A2hosting.com.  delight1.com  and lidyahkc.com
+delight1.com  is connected with SqlYog program .. all is ok.  
+but just  lidyahk.com is not connected....
+what i should do.. 
+please help me..

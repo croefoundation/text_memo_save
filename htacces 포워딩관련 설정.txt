@@ -1,0 +1,79 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^iaccountsvc\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.iaccountsvc\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/global\.iaccountsvc\.com" [R=301,L]
+
+
+
+*****************************외부이동일경우.. http://붙여줘야 인식하는듯
+URL 포워딩 하는 방법 입니다.
+
+보통 index.htm 에서 하부 디렉토리로 연결하거나 외부 주소
+연결할 때 이용됩니다. 
+
+
+
+1. 메타태그를 이용한 방법
+
+<meta http-equiv="Refresh" content="0; URL=http://abc.co.kr">
+-------> abc.co.kr 로 연결
+<meta http-equiv="Refresh" content="0; URL=/tt/">
+-------> /tt 폴더로 연결
+
+
+
+2. 자바스크립트를 이용한 방법
+
+<script>document.location="http://abc.co.kr";</script>
+<script>document.location="/tt/";</script>
+
+
+
+3. PHP 를 이용한 방법
+
+<? header("Location:http://abc.co.kr"); ?>
+<? header("Location:/tt/"); ?>
+
+
+<? header("Location:http://hk.iaccountsvc.com"); ?>
+
+
+기타. 익스플러러 주소창에 도메인 명만 나오도록 하고 플때.
+
+public_html/index.htm 파일을 프레임 파일로 구성하시고 해당 파일
+에서 하부 경로를 불러오시면 됩니다. 
+
+예제 index.htm -------------
+<html>
+<head>
+<title>타이틀</title>
+</head>
+<frameset rows="100%,*" border=0>
+	<frame name="frame" src="/tt/index.htm"></frame>
+</frameset>
+</html>
+-------------------------- 
+위 예제는 tt 폴더안의 index.htm 파일을 열도록 하는 예제입니다.
+
+
+
+외부이동일경우.. http://붙여줘야 인식하는듯
+
+*****************************************************************************************
+
+
+
+
+http 로 들어올 경우 https 로 강제 전환(force redirect)
+
+아파치 모듈중 mod_rewrite 를 사용하면 가능하다.
+ 
+httpd.conf 에 다음 내용 추가하고 아파치 웹서버 재구동
+httpd.conf 설정
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}$1 [R,L]

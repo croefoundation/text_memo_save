@@ -1,0 +1,272 @@
+Account: 110010198
+
+Time : 2017.03.27 09:04:55.836	
+ip : 211.38.136.31
+Action: '7000': user '110010198' 
+updated: Accounts - 110010198 - Group: 'sRoad-live\Sroadfx' -> 'sRoad-live\Group1'
+
+2017.03.27 09:04:55.980	125.131.128.236	'110010198': logout (Client build 1570)
+2017.03.27 09:04:56.457	125.131.128.236	'110010198': login (Client build 1570, cid: 330c37018724cb1e00e22259780bbd6b, point: MetaTrader 5 Access Server, ping: 4.68 ms)
+
+
+
+Account: 110010199
+
+2017.03.27 09:04:56.160	125.131.128.236	'110010199': instant buy 2.01 GBPUSD.sf at 1.25670, close #41660 sell 2.01 GBPUSD.sf 1.24114 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.161	125.131.128.236	'110010199': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 2.01 GBPUSD.sf at 1.25670, close #41660)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.161	125.131.128.236	'110010199': deal performed [#42785 buy 2.01 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.161	125.131.128.236	'110010199': order performed buy 2.01 at 1.25670 [#43155 buy 2.01 GBPUSD.sf at 1.25670], time 0.51 ms
+
+2017.03.27 09:04:56.165	125.131.128.236	'110010199': instant buy 2.01 GBPUSD.sf at 1.25670, close #41688 sell 2.01 GBPUSD.sf 1.24556 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.165	125.131.128.236	'110010199': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 2.01 GBPUSD.sf at 1.25670, close #41688)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.165	125.131.128.236	'110010199': deal performed [#42786 buy 2.01 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.165	125.131.128.236	'110010199': order performed buy 2.01 at 1.25670 [#43156 buy 2.01 GBPUSD.sf at 1.25670], time 0.43 ms
+
+2017.03.27 09:04:56.169	125.131.128.236	'110010199': instant sell 2.01 USDJPY.sf at 110.309, close #41693 buy 2.01 USDJPY.sf 112.556 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.169	125.131.128.236	'110010199': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 2.01 USDJPY.sf at 110.309, close #41693)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.169	125.131.128.236	'110010199': deal performed [#42787 sell 2.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.169	125.131.128.236	'110010199': order performed sell 2.01 at 110.309 [#43157 sell 2.01 USDJPY.sf at 110.309], time 0.56 ms
+
+2017.03.27 09:04:56.173	125.131.128.236	'110010199': instant sell 2.01 USDJPY.sf at 110.309, close #41807 buy 2.01 USDJPY.sf 111.851 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.173	125.131.128.236	'110010199': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 2.01 USDJPY.sf at 110.309, close #41807)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.173	125.131.128.236	'110010199': deal performed [#42788 sell 2.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.173	125.131.128.236	'110010199': order performed sell 2.01 at 110.309 [#43158 sell 2.01 USDJPY.sf at 110.309], time 0.41 ms
+
+2017.03.27 09:04:56.177	125.131.128.236	'110010199': instant sell 2.01 USDJPY.sf at 110.309, close #42767 buy 2.01 USDJPY.sf 111.218 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.177	125.131.128.236	'110010199': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 2.01 USDJPY.sf at 110.309, close #42767)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.177	125.131.128.236	'110010199': deal performed [#42789 sell 2.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.177	125.131.128.236	'110010199': order performed sell 2.01 at 110.309 [#43159 sell 2.01 USDJPY.sf at 110.309], time 0.40 ms
+
+2017.03.27 09:04:56.182	125.131.128.236	'110010199': instant sell 2.01 EURJPY.sf at 119.755, close #42932 buy 2.01 EURJPY.sf 119.797 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.182	125.131.128.236	'110010199': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 2.01 EURJPY.sf at 119.755, close #42932)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.182	125.131.128.236	'110010199': deal performed [#42790 sell 2.01 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.182	125.131.128.236	'110010199': order performed sell 2.01 at 119.755 [#43160 sell 2.01 EURJPY.sf at 119.755], time 0.46 ms
+
+2017.03.27 09:04:56.186	125.131.128.236	'110010199': instant sell 2.01 EURJPY.sf at 119.755, close #43059 buy 2.01 EURJPY.sf 119.656 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.186	125.131.128.236	'110010199': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 2.01 EURJPY.sf at 119.755, close #43059)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.186	125.131.128.236	'110010199': deal performed [#42791 sell 2.01 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.186	125.131.128.236	'110010199': order performed sell 2.01 at 119.755 [#43161 sell 2.01 EURJPY.sf at 119.755], time 0.45 ms
+
+2017.03.27 09:05:00.428	211.38.136.31	'7000': user '110010199' updated: Accounts - 110010199 - Group: 'sRoad-live\Sroadfx' -> 'sRoad-live\Group1'
+2017.03.27 09:05:00.479	125.131.128.236	'110010199': logout (Client build 1570)
+2017.03.27 09:05:01.467	125.131.128.236	'110010199': login (Client build 1570, cid: 330c37018724cb1e00e22259780bbd6b, point: MetaTrader 5 Access Server, ping: 8.98 ms)
+
+
+
+Account: 110010200
+
+2017.03.27 09:04:56.131	125.131.128.236	'110010200': instant buy 2.01 GBPUSD.sf at 1.25670, close #41664 sell 2.01 GBPUSD.sf 1.24114 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.131	125.131.128.236	'110010200': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 2.01 GBPUSD.sf at 1.25670, close #41664)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.131	125.131.128.236	'110010200': deal performed [#42771 buy 2.01 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.131	125.131.128.236	'110010200': order performed buy 2.01 at 1.25670 [#43141 buy 2.01 GBPUSD.sf at 1.25670], time 0.62 ms
+
+2017.03.27 09:04:56.136	125.131.128.236	'110010200': instant buy 2.01 GBPUSD.sf at 1.25670, close #41687 sell 2.01 GBPUSD.sf 1.24556 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.136	125.131.128.236	'110010200': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 2.01 GBPUSD.sf at 1.25670, close #41687)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.136	125.131.128.236	'110010200': deal performed [#42773 buy 2.01 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.136	125.131.128.236	'110010200': order performed buy 2.01 at 1.25670 [#43143 buy 2.01 GBPUSD.sf at 1.25670], time 0.40 ms
+
+2017.03.27 09:04:56.140	125.131.128.236	'110010200': instant sell 2.01 USDJPY.sf at 110.309, close #41692 buy 2.01 USDJPY.sf 112.556 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.140	125.131.128.236	'110010200': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 2.01 USDJPY.sf at 110.309, close #41692)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.141	125.131.128.236	'110010200': deal performed [#42775 sell 2.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.141	125.131.128.236	'110010200': order performed sell 2.01 at 110.309 [#43145 sell 2.01 USDJPY.sf at 110.309], time 0.57 ms
+
+2017.03.27 09:04:56.144	125.131.128.236	'110010200': instant sell 2.01 USDJPY.sf at 110.309, close #41804 buy 2.01 USDJPY.sf 111.851 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.144	125.131.128.236	'110010200': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 2.01 USDJPY.sf at 110.309, close #41804)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.144	125.131.128.236	'110010200': deal performed [#42777 sell 2.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.144	125.131.128.236	'110010200': order performed sell 2.01 at 110.309 [#43147 sell 2.01 USDJPY.sf at 110.309], time 0.26 ms
+
+2017.03.27 09:04:56.147	125.131.128.236	'110010200': instant sell 2.01 USDJPY.sf at 110.309, close #42766 buy 2.01 USDJPY.sf 111.218 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.147	125.131.128.236	'110010200': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 2.01 USDJPY.sf at 110.309, close #42766)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.147	125.131.128.236	'110010200': deal performed [#42779 sell 2.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.147	125.131.128.236	'110010200': order performed sell 2.01 at 110.309 [#43149 sell 2.01 USDJPY.sf at 110.309], time 0.21 ms
+
+2017.03.27 09:04:56.150	125.131.128.236	'110010200': instant sell 2.01 EURJPY.sf at 119.755, close #42935 buy 2.01 EURJPY.sf 119.797 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.150	125.131.128.236	'110010200': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 2.01 EURJPY.sf at 119.755, close #42935)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.150	125.131.128.236	'110010200': deal performed [#42781 sell 2.01 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.150	125.131.128.236	'110010200': order performed sell 2.01 at 119.755 [#43151 sell 2.01 EURJPY.sf at 119.755], time 0.20 ms
+
+
+2017.03.27 09:04:56.153	125.131.128.236	'110010200': instant sell 2.01 EURJPY.sf at 119.755, close #43062 buy 2.01 EURJPY.sf 119.656 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.153	125.131.128.236	'110010200': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 2.01 EURJPY.sf at 119.755, close #43062)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.153	125.131.128.236	'110010200': deal performed [#42783 sell 2.01 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.153	125.131.128.236	'110010200': order performed sell 2.01 at 119.755 [#43153 sell 2.01 EURJPY.sf at 119.755], time 0.26 ms
+
+2017.03.27 09:05:04.755	211.38.136.31	'7000': user '110010200' updated: Accounts - 110010200 - Group: 'sRoad-live\Sroadfx' -> 'sRoad-live\Group1'
+2017.03.27 09:05:04.978	125.131.128.236	'110010200': logout (Client build 1570)
+2017.03.27 09:05:05.165	125.131.128.236	'110010200': login (Client build 1570, cid: 330c37018724cb1e00e22259780bbd6b, point: MetaTrader 5 Access Server, ping: 6.24 ms)
+
+
+Account: 110010203
+
+2017.03.27 09:04:56.131	125.131.128.236	'110010203': instant buy 0.99 GBPUSD.sf at 1.25670, close #41663 sell 0.99 GBPUSD.sf 1.24114 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.131	125.131.128.236	'110010203': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 0.99 GBPUSD.sf at 1.25670, close #41663)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.131	125.131.128.236	'110010203': deal performed [#42772 buy 0.99 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.132	125.131.128.236	'110010203': order performed buy 0.99 at 1.25670 [#43142 buy 0.99 GBPUSD.sf at 1.25670], time 0.82 ms
+
+2017.03.27 09:04:56.136	125.131.128.236	'110010203': instant buy 0.99 GBPUSD.sf at 1.25670, close #41685 sell 0.99 GBPUSD.sf 1.24556 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.137	125.131.128.236	'110010203': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 0.99 GBPUSD.sf at 1.25670, close #41685)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.137	125.131.128.236	'110010203': deal performed [#42774 buy 0.99 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.137	125.131.128.236	'110010203': order performed buy 0.99 at 1.25670 [#43144 buy 0.99 GBPUSD.sf at 1.25670], time 1.48 ms
+
+2017.03.27 09:04:56.141	125.131.128.236	'110010203': instant sell 0.99 USDJPY.sf at 110.309, close #41694 buy 0.99 USDJPY.sf 112.556 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.141	125.131.128.236	'110010203': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 0.99 USDJPY.sf at 110.309, close #41694)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.141	125.131.128.236	'110010203': deal performed [#42776 sell 0.99 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.141	125.131.128.236	'110010203': order performed sell 0.99 at 110.309 [#43146 sell 0.99 USDJPY.sf at 110.309], time 0.48 ms
+
+2017.03.27 09:04:56.145	125.131.128.236	'110010203': instant sell 0.99 USDJPY.sf at 110.309, close #41806 buy 0.99 USDJPY.sf 111.851 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.145	125.131.128.236	'110010203': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 0.99 USDJPY.sf at 110.309, close #41806)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.145	125.131.128.236	'110010203': deal performed [#42778 sell 0.99 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.145	125.131.128.236	'110010203': order performed sell 0.99 at 110.309 [#43148 sell 0.99 USDJPY.sf at 110.309], time 0.32 ms
+
+2017.03.27 09:04:56.148	125.131.128.236	'110010203': instant sell 0.99 USDJPY.sf at 110.309, close #42768 buy 0.99 USDJPY.sf 111.218 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.148	125.131.128.236	'110010203': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 0.99 USDJPY.sf at 110.309, close #42768)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.148	125.131.128.236	'110010203': deal performed [#42780 sell 0.99 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.148	125.131.128.236	'110010203': order performed sell 0.99 at 110.309 [#43150 sell 0.99 USDJPY.sf at 110.309], time 0.23 ms
+
+2017.03.27 09:04:56.150	125.131.128.236	'110010203': instant sell 0.99 EURJPY.sf at 119.755, close #42934 buy 0.99 EURJPY.sf 119.797 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.150	125.131.128.236	'110010203': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 0.99 EURJPY.sf at 119.755, close #42934)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.150	125.131.128.236	'110010203': deal performed [#42782 sell 0.99 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.151	125.131.128.236	'110010203': order performed sell 0.99 at 119.755 [#43152 sell 0.99 EURJPY.sf at 119.755], time 0.23 ms
+
+2017.03.27 09:04:56.153	125.131.128.236	'110010203': instant sell 0.99 EURJPY.sf at 119.755, close #43063 buy 0.99 EURJPY.sf 119.656 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.153	125.131.128.236	'110010203': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 0.99 EURJPY.sf at 119.755, close #43063)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.153	125.131.128.236	'110010203': deal performed [#42784 sell 0.99 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.153	125.131.128.236	'110010203': order performed sell 0.99 at 119.755 [#43154 sell 0.99 EURJPY.sf at 119.755], time 0.24 ms
+
+2017.03.27 09:05:20.194	211.38.136.31	'7000': user '110010203' updated: Accounts - 110010203 - Group: 'sRoad-live\Sroadfx' -> 'sRoad-live\Group1'
+2017.03.27 09:05:20.478	125.131.128.236	'110010203': logout (Client build 1570)
+2017.03.27 09:05:20.944	125.131.128.236	'110010203': login (Client build 1570, cid: 330c37018724cb1e00e22259780bbd6b, point: MetaTrader 5 Access Server, ping: 5.14 ms)
+
+
+Account: 110010204
+
+2017.03.27 09:04:56.337	125.131.128.236	'110010204': instant buy 5.01 GBPUSD.sf at 1.25670, close #41661 sell 5.01 GBPUSD.sf 1.24114 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.337	125.131.128.236	'110010204': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 5.01 GBPUSD.sf at 1.25670, close #41661)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.337	125.131.128.236	'110010204': deal performed [#42799 buy 5.01 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.337	125.131.128.236	'110010204': order performed buy 5.01 at 1.25670 [#43169 buy 5.01 GBPUSD.sf at 1.25670], time 0.64 ms
+
+2017.03.27 09:04:56.342	125.131.128.236	'110010204': instant buy 5.01 GBPUSD.sf at 1.25670, close #41686 sell 5.01 GBPUSD.sf 1.24556 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.342	125.131.128.236	'110010204': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 5.01 GBPUSD.sf at 1.25670, close #41686)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.342	125.131.128.236	'110010204': deal performed [#42800 buy 5.01 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.343	125.131.128.236	'110010204': order performed buy 5.01 at 1.25670 [#43170 buy 5.01 GBPUSD.sf at 1.25670], time 0.65 ms
+
+2017.03.27 09:04:56.347	125.131.128.236	'110010204': instant sell 5.01 USDJPY.sf at 110.309, close #41696 buy 5.01 USDJPY.sf 112.556 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.347	125.131.128.236	'110010204': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 5.01 USDJPY.sf at 110.309, close #41696)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.347	125.131.128.236	'110010204': deal performed [#42801 sell 5.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.347	125.131.128.236	'110010204': order performed sell 5.01 at 110.309 [#43171 sell 5.01 USDJPY.sf at 110.309], time 0.50 ms
+
+2017.03.27 09:04:56.353	125.131.128.236	'110010204': instant sell 5.01 USDJPY.sf at 110.309, close #41805 buy 5.01 USDJPY.sf 111.851 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.353	125.131.128.236	'110010204': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 5.01 USDJPY.sf at 110.309, close #41805)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.354	125.131.128.236	'110010204': deal performed [#42802 sell 5.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.354	125.131.128.236	'110010204': order performed sell 5.01 at 110.309 [#43172 sell 5.01 USDJPY.sf at 110.309], time 0.56 ms
+
+2017.03.27 09:04:56.358	125.131.128.236	'110010204': instant sell 5.01 USDJPY.sf at 110.309, close #42765 buy 5.01 USDJPY.sf 111.218 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.359	125.131.128.236	'110010204': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 5.01 USDJPY.sf at 110.309, close #42765)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.359	125.131.128.236	'110010204': deal performed [#42803 sell 5.01 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.359	125.131.128.236	'110010204': order performed sell 5.01 at 110.309 [#43173 sell 5.01 USDJPY.sf at 110.309], time 0.55 ms
+
+2017.03.27 09:04:56.364	125.131.128.236	'110010204': instant sell 5.01 EURJPY.sf at 119.755, close #42933 buy 5.01 EURJPY.sf 119.797 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.365	125.131.128.236	'110010204': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 5.01 EURJPY.sf at 119.755, close #42933)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.365	125.131.128.236	'110010204': deal performed [#42804 sell 5.01 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.365	125.131.128.236	'110010204': order performed sell 5.01 at 119.755 [#43174 sell 5.01 EURJPY.sf at 119.755], time 0.63 ms
+
+2017.03.27 09:04:56.369	125.131.128.236	'110010204': instant sell 5.01 EURJPY.sf at 119.755, close #43061 buy 5.01 EURJPY.sf 119.656 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.369	125.131.128.236	'110010204': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 5.01 EURJPY.sf at 119.755, close #43061)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.370	125.131.128.236	'110010204': deal performed [#42805 sell 5.01 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.370	125.131.128.236	'110010204': order performed sell 5.01 at 119.755 [#43175 sell 5.01 EURJPY.sf at 119.755], time 0.53 ms
+
+2017.03.27 09:05:24.875	211.38.136.31	'7000': user '110010204' updated: Accounts - 110010204 - Group: 'sRoad-live\Sroadfx' -> 'sRoad-live\Group1'
+2017.03.27 09:05:24.976	125.131.128.236	'110010204': logout (Client build 1570)
+2017.03.27 09:05:25.302	125.131.128.236	'110010204': login (Client build 1570, cid: 330c37018724cb1e00e22259780bbd6b, point: MetaTrader 5 Access Server, ping: 3.72 ms)
+
+
+Account: 110010205
+
+2017.03.27 09:04:56.221	125.131.128.236	'110010205': instant sell 1.32 USDJPY.sf at 110.309, close #43031 buy 1.32 USDJPY.sf 110.399 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.221	125.131.128.236	'110010205': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 1.32 USDJPY.sf at 110.309, close #43031)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.221	125.131.128.236	'110010205': deal performed [#42792 sell 1.32 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.221	125.131.128.236	'110010205': order performed sell 1.32 at 110.309 [#43162 sell 1.32 USDJPY.sf at 110.309], time 0.70 ms
+
+2017.03.27 09:04:56.227	125.131.128.236	'110010205': instant sell 1.32 EURJPY.sf at 119.755, close #43032 buy 1.32 EURJPY.sf 119.740 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.227	125.131.128.236	'110010205': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 1.32 EURJPY.sf at 119.755, close #43032)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.227	125.131.128.236	'110010205': deal performed [#42793 sell 1.32 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.227	125.131.128.236	'110010205': order performed sell 1.32 at 119.755 [#43163 sell 1.32 EURJPY.sf at 119.755], time 0.75 ms
+
+2017.03.27 09:04:56.231	125.131.128.236	'110010205': instant sell 1.32 USDJPY.sf at 110.309, close #43033 buy 1.32 USDJPY.sf 110.399 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.232	125.131.128.236	'110010205': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 1.32 USDJPY.sf at 110.309, close #43033)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.232	125.131.128.236	'110010205': deal performed [#42794 sell 1.32 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.232	125.131.128.236	'110010205': order performed sell 1.32 at 110.309 [#43164 sell 1.32 USDJPY.sf at 110.309], time 0.39 ms
+
+2017.03.27 09:04:56.236	125.131.128.236	'110010205': instant sell 1.32 USDJPY.sf at 110.309, close #43034 buy 1.32 USDJPY.sf 110.399 (110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.236	125.131.128.236	'110010205': request confirmed at client price 110.309, rule 'Auto Execution' (instant sell 1.32 USDJPY.sf at 110.309, close #43034)(110.309 / 110.329 / 110.313)
+2017.03.27 09:04:56.236	125.131.128.236	'110010205': deal performed [#42795 sell 1.32 USDJPY.sf at 110.309]
+2017.03.27 09:04:56.236	125.131.128.236	'110010205': order performed sell 1.32 at 110.309 [#43165 sell 1.32 USDJPY.sf at 110.309], time 0.50 ms
+
+2017.03.27 09:04:56.241	125.131.128.236	'110010205': instant buy 1.32 GBPUSD.sf at 1.25670, close #43035 sell 1.32 GBPUSD.sf 1.25230 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.241	125.131.128.236	'110010205': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 1.32 GBPUSD.sf at 1.25670, close #43035)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.241	125.131.128.236	'110010205': deal performed [#42796 buy 1.32 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.241	125.131.128.236	'110010205': order performed buy 1.32 at 1.25670 [#43166 buy 1.32 GBPUSD.sf at 1.25670], time 0.33 ms
+
+2017.03.27 09:04:56.245	125.131.128.236	'110010205': instant buy 1.32 GBPUSD.sf at 1.25670, close #43036 sell 1.32 GBPUSD.sf 1.25230 (1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.245	125.131.128.236	'110010205': request confirmed at client price 1.25670, rule 'Auto Execution' (instant buy 1.32 GBPUSD.sf at 1.25670, close #43036)(1.25646 / 1.25670 / 1.25657)
+2017.03.27 09:04:56.245	125.131.128.236	'110010205': deal performed [#42797 buy 1.32 GBPUSD.sf at 1.25670]
+2017.03.27 09:04:56.245	125.131.128.236	'110010205': order performed buy 1.32 at 1.25670 [#43167 buy 1.32 GBPUSD.sf at 1.25670], time 0.34 ms
+
+2017.03.27 09:04:56.249	125.131.128.236	'110010205': instant sell 1.32 EURJPY.sf at 119.755, close #43058 buy 1.32 EURJPY.sf 119.656 (119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.249	125.131.128.236	'110010205': request confirmed at client price 119.755, rule 'Auto Execution' (instant sell 1.32 EURJPY.sf at 119.755, close #43058)(119.755 / 119.778 / 119.664)
+2017.03.27 09:04:56.249	125.131.128.236	'110010205': deal performed [#42798 sell 1.32 EURJPY.sf at 119.755]
+2017.03.27 09:04:56.249	125.131.128.236	'110010205': order performed sell 1.32 at 119.755 [#43168 sell 1.32 EURJPY.sf at 119.755], time 0.44 ms
+
+2017.03.27 09:05:30.204	211.38.136.31	'7000': user '110010205' updated: Accounts - 110010205 - Group: 'sRoad-live\Sroadfx' -> 'sRoad-live\Group1'
+2017.03.27 09:05:30.473	125.131.128.236	'110010205': logout (Client build 1570)
+2017.03.27 09:05:30.831	125.131.128.236	'110010205': login (Client build 1570, cid: 330c37018724cb1e00e22259780bbd6b, point: MetaTrader 5 Access Server, ping: 4.58 ms)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

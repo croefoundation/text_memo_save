@@ -1,0 +1,32 @@
+ I Want to specify defferent preliminary groups. W/L name = "Digit global Limited" .. 
+
+they have DigitGlobal-demo,  DigitGlobal-Live server.
+
+if their user open a real account with his client terminal.
+
+their apply information cannot see their manager. 
+
+if  W/L manager login by manager terminal.. account id: 8000 pw:digit2016 
+
+he can not see his own the preliminary account.  
+
+i want their application their Prelimary_DigitGlobal Group..
+
+thank you 
+
+MetaQuotes Support 2016.11.03 10:46
+We have specified three preliminary groups for your White Labels.
+
+They are :
+
+Preliminary_cil for Creative Idea HK Limited
+Preliminary_zeus  for ZEUS Plus Limited
+Preliminary_digit for Digit Global Limited
+Please, create the groups above via MetaTrader 5 Administrator -> Groups and specify for each group corresponding WL company name in "Company" field:
+
+
+
+After, please run "Restart" command via MetaTrader 5 Administrator. 
+
+Then, go to "Download" page on the support webiste, download updated client terminal, install it and check "New real" account option.
+

@@ -1,0 +1,28 @@
+Dear Mr. Kim,
+ 
+With regard to commission and costs for receiving LMAX Exchange¡¯s liquidity by FIX API, please see below examples.
+ 
+Broker Costs = $2,500 minimum monthly commission (3 months free).
+               Example: per million commission = $15/Mio
+A)     Your Company does No Trading, then pay minimum monthly commission of $2,500 total
+B)     Your Company does 150 Mio ($15 * 150 = $2,250) then pay $250 [$2,250 + $250] = $2,500 total
+C)     Your Company does 180 Mio ($15 * 180 = $2,700) then pay $0 extra [$2,700 + $0] = $2,700 total
+D)     Your Company does 500 Mio ($15 * 500 = $7,500) then pay $0 extra [$7,000 + $0] = $7,000 total
+ 
+Company that is NOT a Broker = minimum monthly VOLUME of 100 Million / Month OR pay $300
+** This is NOT a minimum commission, but rather this is a minimum Volume. If the minimum volume is not done, the charge of $300 USD applies each month (first month Free, no charge))
+ 
+Please let me know if you have any questions. Thank you and Happy Lunar New Year to you and your family!
+
+
+
+
+
+i am sorry that it is difficult,if there is another way to receive as a broker.
+
+
+i'll try to receive datafeed according to your 2nd guide
+"Company that is NOT a Broker = minimum monthly VOLUME of 100 Million / Month OR pay $300"
+What i should do?
+
+i have to decide to receive datafeed, as soon as possible..

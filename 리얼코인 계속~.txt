@@ -1,0 +1,50 @@
+
+전세계 217 조 달러 이상 규모의 세계 부동산 시장에서 발생하는 투자 및 거래에 유동성과 투명성을 부여하고자 합니다. 
+
+리얼코인 플랫폼은 이더리움 스마트 컨트랙트에 기반한 탈중앙 ADEX 거래소를 시작으로, 
+개개인의 부동산 자산을 토큰화하여 거래소에 상장시키거나 PTO(공개 토큰 판매)를 통해 거래를 가능하게 해 줍니다. 
+이러한 노력을 통해 소유권이 이전이 용이해지며, 최소한의 제약으로 일부 부동산만을 소지할 수 있게 되고, 
+세금의 비효율성을 경감되며, 국경을 뛰어넘은 거래를 쉽게 할 수 있게 될 뿐만 아니라 불필요한 중개인에 의해 발생하는 관할권 관련 간접비를 없애 줍니다. 부동산 자산을 토큰화함으로써 부동산 자산의 현 점유지, 물리적 및
+
+
+
+
+1 Barnes Y. et al., (2016) Around the World in Dollars and Cents http://pdf.euro.savills.co.uk/global- research/around-the-world-in-dollars-and-cents-2016.pdf
+2 Axford N. et al, (2017) Global Investor Intentions Survey http://www.cbre.com/research-and-reports/Global- Investor-Intentions-Survey-2017
+ 
+법적 특징, 과거 기록 및 재정 상태가 디지털 기록에 남아 이를 고유하게 식별할 수 있게 됩니다.
+더군다나 ATLANT 는 많은 수의 중개자를 배제하고, 탈중앙 방식으로 분쟁을 해결하며 리뷰나 부동산 목록의 정직성을 보장하며, 
+불변성을 가진 블록 체인을 이용하며, 진정한 P2P 시장을 현실화시킴으로써 낮은 수수료로 장단기 부동산 임대 시장을 이용할 수 있게 해 줍니다.
+
+ATLANT 플랫폼은 플랫폼의 참여자와는 독립적으로 작동하고 거래되는 Ethereum 네트워크에서 운영되는 임대 P2P 네트워크와 토큰화된 부동산 자산에 관하여 오픈 소스 정책을 펴고 있습니다. 
+
+ATLANT 는 EVM 컨트랙트를 활용함으로써 깨끗한 UI 를 제공합니다. 
+추가적으로, ("ATL") 플랫폼 토큰은 중앙 집중식 디지털 자산 교환소에서 거래될 수 있습니다.
+정부 부동산 등기 제도가 블록 체인과 완전히 순응하며 원장이 잘 분산되어 있다면, 
+부동산 시장에서 1 위의 통합된 SPVs(특별목적회사) 를 설립하지 않고서도 ATLANT 의 최종 목표인 여러 관할권과 제휴하여 
+작은 단위의 부동산을 사고 팔며 등기할 수 있게 하는 것을 달성할 수 있을 것입니다. 
+현재 스웨덴, 그루지야, 가나, 우크라이나, 일본 및 미국 일부 지역(시카고, 델라웨어) 등 
+여러 지역에서 에서 블록 체인 부동산 등기 제도 시험 프로젝트가 이미 진행되고 있으며, 
+다른 여러 관할 지역에서는 블록 체인 부동산 등기 제도를 검토하고 있습니다.
+
+
+眞實
+
+
+
+Non ? Correlation to Other Asset Classes
+
+High, Stable Returns
+
+Inflation Protection
+
+
+
+Security: Using a blockchain is cryptographically secure - the ledger is distributed across all nodes in the system making hacking near ? impossible.
+Transparency: All transactions are publicly recorded and available for scrutiny
+Low-Counterparty Risk: No party can transfer assets (money, property, data) they do not have and all transactions are recorded and cannot be revoked or tampered with VS. Fraud
+Decentralized: No single authority has control. The network cannot be distorted or manipulated by a single controlling authority.
+Privacy: Users are totally anonymous and do not need to provide credentials beyond their node address.
+High liquidity: DCT's are interchangeable with other Ethereum- based tokens or Ether
+Easier listing on exchanges: Infrastructure is already in place
+Low transaction costs: The system removes the need for intermediaries and thus lowers transaction costs.

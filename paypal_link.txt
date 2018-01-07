@@ -1,0 +1,37 @@
+https://www.paypal.com/webapps/hermes?token=3UU746536U114244B&useraction=commit&mfid=1507803592409_82b942b5bb55b#/checkout/guest
+
+
+https://www.paypal.com/cgi-bin/webscr?business=cnwasset%40gmail.com&cmd=_xclick&amount=80&item_name=Custom+Item&currency_code=USD
+
+
+
+
+https://www.paypal.com/webapps/hermes?token=3XE178602T4204545&useraction=commit&mfid=1507803724273_92e50f639aa3c#/checkout/guest
+
+
+>>카드결제하기(paypal 별도창)
+
+	USD $80
+
+
+
+- i-Account 직접 해당금액을 입금을 할 경우
+i-Account no. 111-712902-888  
+LBD Agent : Libeta Limited
+
+
+
+111-712902-888  
+
+LIBERTA F&C LIMITED
+
+
+>>결제하기(별도창)
+
+
+1. BASIC : $80 (USD)  i-ACCOUNT + Card 1ea
+2. Double : $150(USD) i-ACCOUNT + Card 2ea
+
+
+choice는 풀다운 선택메뉴고..
+안에 config설정시 : 항목에 : 세미클론으로  앞에 키: 선택제목,키 부분은 안나타나고 한줄씩 쓴다.

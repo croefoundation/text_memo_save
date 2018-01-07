@@ -1,0 +1,206 @@
+01. 거래가능 상품 
+Forex, CFDs, 금속, 선물 등이 MT4에서 거래가 가능합니다.
+02. 언어지원 
+MT4는 40여개의 국가별 언어를 지원합니다.
+03. 자료 다운로드 
+MT4터미널에서 거래내역을 다운로드할 수 있습니다.
+04. 기술분석 
+다양한 기술분석 도구들이 제공됩니다.
+05. 지표 
+다양한 지표와 스크립트가 지원됩니다.
+06. 차트 
+안정적이고, 여러 시간대의 차트가 제공됩니다.
+07. Forex 뉴스 제공 
+세계 각국의 경제 뉴스가 제공됩니다.
+08. Expert Advisors(EA) 
+자동거래 프로그램이 실행됩니다.
+09. MetaQuotes Language 4 (MQL4) 
+MQL4 프로그램이 EA 생성을 위한 도구로써 지원됩니다.
+10. 다양한 주문형태 
+Sell/Buy Limit/Stop, TP, SL, Trailing Stop
+
+Trade the World's Markets with DigitForex.
+
+
+https://fxinterest.wordpress.com/2014/12/22/metatrader-4-v-s-metatrader-5/
+MetaTrader 4 v.s. MetaTrader 5
+
+Hello good reader, for you good Traders who are just starting out or who are already use MetaTrader. MetaTrader is a trading platform created by MetaQuotes Inc. MetaTrader was renewed version from version 4 to version 5, which is known as MetaTrader 4 to MetaTrader 5. Yup, you are traders would have been familiar with MetaTrader 4, but what about the MetaTrader 5? Here, it will be 10 differences between MetaTrader 4 MetaTrader 5:
+
+S/N	ITEM	MT4	MT5
+1	Installation	Still simple and straightforward. Broker server address required during account opening during installation	Nothing has changed recently. Metaquotes trading server now included as a default in the opening account phase of the installation. Ability to add new server from MT5 for a demo account included. Web installer also available
+2	Charts/ Timeframe	9 Timeframes	21 Timeframes from M1, M2,M3,.. M10,…M20,…, to monthly & yearly timeframes. Unlimited number of charts. 100 charts can be opened at a time. Trading from tick chart is now available.
+3	Fundamental Analysis (news trading)	Does not have Forex Calendar	A separate economic calendar tab with features like news event, schedule, impact, forecast, previous & others.
+4	Commerce/ Market	Does not have commerce integrated into the platform. You have to visit MQL website for Market Place.	Integrated into the platform. You can directly purchase Forex products from MQL through the Market tab on the platform.
+5	Indicators & Analytical Objects	30 inbuilt indicators.	38 inbuilt indicators. New indicators added. 22 Analytical Objects, & 46 graphical objects.
+6	Orders	2 market orders, & 4 pending orders	2 market orders, 6 pending orders, & 2 stop orders.
+7	Expert Advisor	MetaTrader 4 Editor & Strategy Tester. EAs are designed with native MQL code language, and they are faster to compile. Cannot port EA codes from MT4 to MT5. So EAs on MT4 would not work on MT5.	MetaTrader 5 Editor, Improved Strategy Tester, Strategy Tester Agent Manager for remote optimization of expert advisors, e.t.c. EAs are designed with C++ and they are quite slower to compile.
+8	Interface	Easier to navigate around. One click trading and Drag and drop is only included in newer MT4 Builds from 500 upwards.	More additions in the design interface. Search box included, Details tab on the Market Watch window. One Click trading, drag and drop, e.t.c.
+9	Trading (Hedging, FIFO, e.t.c.)	Allows all trading methods. However broker regulations are implemented on their MT4 platforms.	Does not support hedging & implements FIFO by default.
+10	Brokers	More brokers deliver certain key services on MT4 than MT5.	Not much when compared to brokers who deliver their services on MT4.
+Now the big question? Why are most traders still sticking with MT4 despite the newly introduced features? Here are the simple reasons.
+
+metatrader
+
+EAs designed with MQL Code cannot work on MT5, and cannot be ported to MT5. What??? you mean some expensive bucks of investment on my EA would be thrown off just like that? Yes!!! The only way out is to rewrite the codes in C++.
+Say bye bye to Hedging and scalping in MT5 (Anti-FIFO). MT5 is more like a regulated platform implementing the NFA Rules by default. However this shouldn’t be.
+
+
+
+
+FOREX SPREADS
+
+Low spreads, transparency, fast orders: We've got the execution and pricing to suit your trading needs.
+
+EDUCATION
+
+Get the education you need: on-demand lessons, webinars, platform walkthroughs and real-time instruction.
+
+ACCOUNT OPTIONS
+
+Need help deciding which DIGIT FOREX account is best for you? Let us walk you through your account options.
+
+FREE TRADING TOOLS
+
+Open the door to premium trading tools and education through DailyFX PLUS, free for all DIGIT FOREX clients.
+
+
+INDUSTRY RECOGNITION
+
+FXCM Leads The Way
+Our customer service, platforms and education have won numerous awards around the world.
+ACCLAIMED EXECUTION
+
+Competitive, Market-Driven Prices
+Our innovative No Dealing Desk model offers competitive spreads and anonymous execution.
+
+
+
+Advanced Trading Technologies
+Up to 7000 orders executed per second
+Deep liquidity pool
+Superior aggregation for better prices
+Ultra-low latency datacentre co-location
+A range of exclusive trading tools
+Fully automated FX investments
+
+e lead the industry in matters of fairness and transparency
+With us you can trade FX, Shares, Futures, Indices, Energies and Metals
+
+Live customer support available on our platforms, or via phone and email
+Native Android and iPhone apps
+
+
+
+
+
+
+
+DIGIT FOREX was established by industry experts with many years of broad and hands-on experience in the financial markets. Our mission is to provide the best services and creative solutions to our clients and help them grow together in this fast paced global financial market.
+
+DIGIT FOREX promises to provide an optimal trading environment with a stable system for every trade and to provide our clients with the best possible assistance.
+
+For the safety of our clients' funds, we chose Bank of America and JP Morgan Chase as our custodial account. 
+We do our best to keep our clients' funds safe by adhering to Client Money Rules and we are open to receive complaints 24 hours. We believe that is an essential element for our business and the company to grow.
+
+Our overall vision is to be the best global FX Company. We aim to achieve this by providing the highest standards of customer service and ensuring that our clients are treated fairly. We want to be your trustworthy global partner in the forex market.
+
+
+
+
+
+https://www.fxcm.com/forex/what-is-forex/
+---------------------------------------------------
+Why Trade Forex?
+Online forex trading has become very popular in the past decade.
+
+FOREX NEVER SLEEPS
+Trading goes on all around the world during different countries' business hours. You can, therefore, trade major currencies at any time, 24 hours per day, five days per week. Since there are no set exchange hours, it means that there is also something happening at almost any time of the day or night.1
+
+GO LONG OR SHORT
+Unlike many other financial markets, where it can be difficult to sell short, there are no limitations on shorting currencies subject to available liquidity. If you think a currency will go up, buy it. If you think it will fall, sell it. This means there is no such thing as a "bear market" in forex?you can make (or lose) money any time.
+
+AVAILABLE LEVERAGE
+Because of the deep liquidity available in the forex market, you can trade forex with considerable leverage (up to 50:1). This can allow you to trade even the smallest moves in the market. Leverage is a double-edged sword, of course, as it can significantly increase your losses as well as your gains.
+
+UNMATCHED LIQUIDITY
+Because forex is a $5.3 trillion-a-day market, with most trading concentrated in only a few currencies, there are always a lot of people trading. This makes it typically very easy to get into and out of trades at any time, even in large sizes subject to available liquidity.
+
+
+LOW TRADING COST
+FXCM's Standard accounts are made up of low, competitive commissions and super-tight spreads. You trade the direct quotes from our liquidity providers with no hidden markups. For beginners, FXCM also offers a Mini account with all-inclusive spreads.2
+
+INTERNATIONAL EXPOSURE
+As the world becomes more and more global, investors hunt for opportunities anywhere they can. If you want to take a broad opinion and invest in another country (or sell it short!), forex is a way to gain exposure while avoiding vagaries such as foreign securities laws and financial statements in other languages.
+
+
+
+-------------------------
+WHY DO EXCHANGE RATES CHANGE?
+Currencies trade on an open market, just like stocks, bonds, computers, cars and many other goods and services. A currency's value fluctuates as its supply and demand fluctuates, just like anything else.
+
+An increase in supply or a decrease in demand for a currency can cause the value of that currency to fall.
+A decrease in the supply or an increase in demand for a currency can cause the value of that currency to rise.
+A big benefit to forex trading is that you can buy or sell any currency pair, at any time subject to available liquidity. So if you think the Eurozone is going to break apart, you can sell the euro and buy the dollar (sell EUR/USD). If you think the price of gold is going to go up, and based on historical correlation patterns, you think the value of gold affects the value of the Australian dollar, you might decide to buy the Australian dollar and sell the U.S. dollar (buy AUD/USD).
+
+This also means that there really is no such thing as a "bear market," in the traditional sense. You can make (or lose) money when the market is trending up or down.
+
+
+
+ELEMENTS OF A FOREX TRADE
+How Do You Read A Quote?
+Because you are always comparing one currency to another, forex is quoted in pairs. This may seem confusing at first, but it is actually pretty straightforward. For example, EUR/USD at 1.4022 shows how much one euro (EUR) is worth in U.S. dollars (USD).
+
+What Is A Lot?
+A lot is the smallest trade size available. FXCM accounts have a standard lot size of 1,000 units of currency. Account holders can, however, place trades of different sizes, as long as they are in increments of 1,000 units like 2,000; 3,000; 15,000; 112,000.
+
+What Is A Pip?
+A pip is the unit you count profit or loss in. Most currency pairs, except Japanese yen pairs, are quoted to four decimal places. This fourth spot after the decimal point (at one 100th of a cent) is typically what one watches to count "pips." Every point that place in the quote moves is 1 pip of movement. For example, if EUR/USD rises from 1.4022 to 1.4027, EUR/USD has risen 5 pips.
+
+What Is Leverage/Margin?
+As mentioned before, all trades are executed using borrowed money. This allows you to take advantage of leverage. Leverage of 50:1 allows you to trade with $1,000 in the market by setting aside approximately $20 as a security deposit. This means that you can take advantage of even the smallest movements in currencies by controlling more money in the market than you have in your account. On the other hand, leverage can significantly increase your losses. Trading foreign exchange with any level of leverage may not be suitable for all investors.
+
+The specific amount that you are required to put aside to hold a position is referred to as your margin requirement. Margin can be thought of as a good faith deposit required to maintain open positions. This is not a fee or a transaction cost, it is simply a portion of your account equity set aside and allocated as a margin deposit. Learn more about FXCM's Margin Requirements.
+
+
+
+----------------------------
+
+How to Trade Forex
+OPPORTUNITIES IN FOREX: WHAT'S YOUR OPINION?
+Just like stocks, you can trade currency based on what you think its value is (or where it's headed). But the big difference with forex is that you can trade up or down just as easily. If you think a currency will increase in value, you can buy it. If you think it will decrease, you can sell it. With a market this large, finding a buyer when you're selling and a seller when you're buying is much easier than in other markets, subject to available liquidity.
+
+Maybe you hear on the news that China is devaluing its currency to draw more foreign business into its country. If you think that trend will continue, you could make a forex trade by selling the Chinese currency against another currency, say, the US dollar. The more the Chinese currency devalues against the US dollar, the higher your profits. If the Chinese currency increases in value while you have your sell position open, then your losses increase and you'd want to get out of the trade.
+
+MAKING A TRADE: HOW TO BUY AND SELL CURRENCY
+You have an opinion. Now what? Open your free forex demo platform and trade your opinion.
+
+All forex trades involve two currencies because you're betting on the value of a currency against another. Think of EUR/USD, the most-traded currency pair in the world. EUR, the first currency in the pair, is the base, and USD, the second, is the counter. When you see a price quoted on your platform, that price is how much one euro is worth in US dollars. You always see two prices because one is the buy price and one is the sell. The difference between the two is the spread. When you click buy or sell, you are buying or selling the first currency in the pair.
+
+Let's say you think the euro will increase in value against the US dollar. Your pair is EUR/USD. Since the euro is first, if you think it will go up, you buy EUR/USD. If you think the euro will drop in value against the US dollar, you sell EUR/USD.
+
+If the EUR/USD buy price is 0.70644 and the sell price is 0.70640, then the spread is 0.4 pips. If the trade moves in your favor (or against you), then, once you cover the spread, you could make a profit (or loss) on your trade.
+
+FRACTIONS OF A PENNY: TRADING ON MARGIN
+If prices are quoted to the hundredths of cents, how can you see any significant return on your investment when you trade forex? The answer is leverage.
+
+When you trade forex, you're effectively borrowing the first currency in the pair to buy or sell the second currency. With a $5-trillion-a-day market, the liquidity is so deep that liquidity providers?the big banks, basically?allow you to trade with leverage. To trade with leverage, you simply set aside the required margin for your trade size. If you're trading 50:1 leverage, for example, you can trade $1,000 in the market while only setting aside $20 in margin in your trading account. This gives you much more exposure, while keeping your capital investment down.
+
+But leverage doesn't just increase your profit potential. It can also increase your losses, which can exceed deposited funds. When you're new to forex, you should always start trading small with lower leverage ratios, until you feel comfortable in the market.
+
+
+
+--------
+
+. 
+
+I want "Features" with non-full-width becase it is too wide in new Mobirise3 template,
+i didn't find "Features" with non-full-width in new Mobirise3 template, all of block are fullwidth.. 
+and there is no setting option menu to control full-width toggle.
+
+So.. i bought additional Blocks include 60block and paid 29$.
+but oh my god. also I can not find non-Full width colum style. 
+Please help me  4colum style width non-full width. for example like "Contents" in the Old Mobirise template.  
+
+
+But Additional Blocks didn't any Featutures 
